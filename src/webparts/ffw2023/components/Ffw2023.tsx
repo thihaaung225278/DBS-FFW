@@ -16,7 +16,7 @@ import { GallerySection } from './sections/GallerySection';
 import { VideoHighlightsSection } from './sections/VideoHighlightsSection';
 
 const Ffw2023: React.FC<IFfw2023Props> = (props) => {
-  const { classicYear, classicPage, galleryDownloadUrl, onHostLayout } = props;
+  const { classicYear, classicPage, galleryDownloadUrl, icalBaseUrl, onHostLayout } = props;
 
   const {
     data,
@@ -67,6 +67,7 @@ const Ffw2023: React.FC<IFfw2023Props> = (props) => {
           country={scheduleCountry}
           onCountryChange={setScheduleCountry}
           countryEvents={scheduleEvents}
+          icalBaseUrl={icalBaseUrl}
         />
       </div>
 

@@ -4,18 +4,20 @@ import { SCHEDULE_COUNTRIES } from '../countries';
 import { formatTabDate } from '../../../../shared/ffw2023/dateHelpers';
 import { formatSpeakerLine, groupEventsByDate } from '../../services/ffw2023EventHelpers';
 import type { ICountryEvents } from '../../services/ffw2023Types';
-import { resolveFfw2023Asset } from '../../assets/ffw2023AssetMap';
+import { resolveFfw2023IcalUrl } from '../../utils/ffw2023SiteAssetUrls';
 
 export interface IScheduleSectionProps {
   country: string;
   onCountryChange: (value: string) => void;
   countryEvents: ICountryEvents | null;
+  icalBaseUrl: string;
 }
 
 export const ScheduleSection: React.FC<IScheduleSectionProps> = ({
   country,
   onCountryChange,
-  countryEvents
+  countryEvents,
+  icalBaseUrl
 }) => {
   const [activeTab, setActiveTab] = React.useState(0);
   const grouped = countryEvents ? groupEventsByDate(countryEvents.events) : {};
@@ -99,7 +101,7 @@ export const ScheduleSection: React.FC<IScheduleSectionProps> = ({
                       <div className="right-content">
                         {event.icl_link ? (
                           <a
-                            href={resolveFfw2023Asset(event.icl_link)}
+                            href={resolveFfw2023IcalUrl(event.icl_link, icalBaseUrl)}
                             target="_blank"
                             rel="noreferrer"
                             className="uk-flex"

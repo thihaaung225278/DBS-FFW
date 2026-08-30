@@ -57,175 +57,6 @@ const FFW2023_IMAGE_MAP: Record<string, string> = {
   'public/images/text.png': require('./img/text.webp') as string
 };
 
-const FFW2023_ICAL_MAP: Record<string, string> = {
-  'public/iCal-invites/19 Jul_12.30pm_Audit\'s Talent Strategy and Career Development.ics': require('./ical/19 Jul_12.30pm_Audit\'s Talent Strategy and Career Development.ics') as string,
-  'public/iCal-invites/19 Jul_3pm_Ex Council, Workflow, Workbench.ics': require('./ical/19 Jul_3pm_Ex Council, Workflow, Workbench.ics') as string,
-  'public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics': require('./ical/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics') as string,
-  'public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/20 Jul_5pm_Nutrition.ics': require('./ical/20 Jul_5pm_Nutrition.ics') as string,
-  'public/iCal-invites/21 Jul_ 11am_Career Jam (SG) - Debunking Myths on Internal Mobility.ics': require('./ical/21 Jul_ 11am_Career Jam (SG) - Debunking Myths on Internal Mobility.ics') as string,
-  'public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics': require('./ical/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics') as string,
-  'public/iCal-invites/21Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics': require('./ical/21Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics') as string,
-  'public/iCal-invites/China/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/China/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/China/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/China/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/China/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/China/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/China/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/China/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/China/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/China/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/China/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/China/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/China/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/China/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/China/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/China/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/China/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/China/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/China/20 Jul_2pm_Retirement Planning.ics': require('./ical/China/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/China/20 Jul_3pm_Nutrition.ics': require('./ical/China/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/China/20 Jul_3pm_Sleep.ics': require('./ical/China/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/China/20 Jul_4pm_Timeboxing.ics': require('./ical/China/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/China/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/China/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/China/21 Jul_10am_Be My Guest.ics': require('./ical/China/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/China/21 Jul_2pm_Acing internal interviews.ics': require('./ical/China/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/China/21 Jul_4pm_Riding (CN).ics': require('./ical/China/21 Jul_4pm_Riding (CN).ics') as string,
-  'public/iCal-invites/China/21 Jul_4pm_Zumba (CN).ics': require('./ical/China/21 Jul_4pm_Zumba (CN).ics') as string,
-  'public/iCal-invites/China/21 Jul_5pm_Karate (CN).ics': require('./ical/China/21 Jul_5pm_Karate (CN).ics') as string,
-  'public/iCal-invites/China/21 Jul_5pm_Running (CN).ics': require('./ical/China/21 Jul_5pm_Running (CN).ics') as string,
-  'public/iCal-invites/China/21 Jul_5pm_YOGA (CN).ics': require('./ical/China/21 Jul_5pm_YOGA (CN).ics') as string,
-  'public/iCal-invites/China/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/China/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/China/21Jul_3pm_Career Jam (CN).ics': require('./ical/China/21Jul_3pm_Career Jam (CN).ics') as string,
-  'public/iCal-invites/EX Council Workflow Workbench.ics': require('./ical/EX Council Workflow Workbench.ics') as string,
-  'public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics': require('./ical/From Insights to Action How might we build a resilient career in banking.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/Hong Kong/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/Hong Kong/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/Hong Kong/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/Hong Kong/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/Hong Kong/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/Hong Kong/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/Hong Kong/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/Hong Kong/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/Hong Kong/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/Hong Kong/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_2pm_Retirement Planning.ics': require('./ical/Hong Kong/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_3pm_Nutrition.ics': require('./ical/Hong Kong/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_3pm_Sleep.ics': require('./ical/Hong Kong/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_4pm_Timeboxing.ics': require('./ical/Hong Kong/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/Hong Kong/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/Hong Kong/20 Jul_5pm_Zumba x Bollywood.ics': require('./ical/Hong Kong/20 Jul_5pm_Zumba x Bollywood.ics') as string,
-  'public/iCal-invites/Hong Kong/20 July_11am Smart Investment for Wealth Accumulation in DBS.ics': require('./ical/Hong Kong/20 July_11am Smart Investment for Wealth Accumulation in DBS.ics') as string,
-  'public/iCal-invites/Hong Kong/20Jul_11am_Smart Investment for Wealth Accumulation in DBS.ics': require('./ical/Hong Kong/20Jul_11am_Smart Investment for Wealth Accumulation in DBS.ics') as string,
-  'public/iCal-invites/Hong Kong/21 Jul_10am_Be My Guest.ics': require('./ical/Hong Kong/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/Hong Kong/21 Jul_12pm_Retirement Planning  Never too early Never too late.ics': require('./ical/Hong Kong/21 Jul_12pm_Retirement Planning  Never too early Never too late.ics') as string,
-  'public/iCal-invites/Hong Kong/21 Jul_2pm_Acing internal interviews.ics': require('./ical/Hong Kong/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/Hong Kong/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/Hong Kong/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/Hong Kong/21 July_11am_Career Jam (HK).ics': require('./ical/Hong Kong/21 July_11am_Career Jam (HK).ics') as string,
-  'public/iCal-invites/Hong Kong/21 July_12pm_Retirement Planning Never too early Never too late.ics': require('./ical/Hong Kong/21 July_12pm_Retirement Planning Never too early Never too late.ics') as string,
-  'public/iCal-invites/Hong Kong/21Jul_11am_Career Jam (HK).ics': require('./ical/Hong Kong/21Jul_11am_Career Jam (HK).ics') as string,
-  'public/iCal-invites/Hong Kong/U_19Jul_5pm_Yoga Stretch at Your Desk.ics': require('./ical/Hong Kong/U_19Jul_5pm_Yoga Stretch at Your Desk.ics') as string,
-  'public/iCal-invites/Hong Kong/U_20Jul_5pm_Zumba x Bollywood.ics': require('./ical/Hong Kong/U_20Jul_5pm_Zumba x Bollywood.ics') as string,
-  'public/iCal-invites/Hong Kong/U_21Jul_4pm_Parent-child Yoga.ics': require('./ical/Hong Kong/U_21Jul_4pm_Parent-child Yoga.ics') as string,
-  'public/iCal-invites/India/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/India/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/India/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/India/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/India/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/India/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/India/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/India/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/India/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/India/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/India/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/India/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/India/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/India/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/India/19Jul_5.30pm_Zumba.ics': require('./ical/India/19Jul_5.30pm_Zumba.ics') as string,
-  'public/iCal-invites/India/19Jul_6.30pm_The Psychology of Spending.ics': require('./ical/India/19Jul_6.30pm_The Psychology of Spending.ics') as string,
-  'public/iCal-invites/India/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/India/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/India/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/India/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/India/20 Jul_2pm_Retirement Planning.ics': require('./ical/India/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/India/20 Jul_3pm_Nutrition.ics': require('./ical/India/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/India/20 Jul_3pm_Sleep.ics': require('./ical/India/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/India/20 Jul_4pm_Timeboxing.ics': require('./ical/India/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/India/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/India/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/India/20Jul_2.30pm_Career Jam - Build Career Resilience by Reskilling and Upskilling.ics': require('./ical/India/20Jul_2.30pm_Career Jam - Build Career Resilience by Reskilling and Upskilling.ics') as string,
-  'public/iCal-invites/India/20Jul_5.30pm_Zumba.ics': require('./ical/India/20Jul_5.30pm_Zumba.ics') as string,
-  'public/iCal-invites/India/20Jul_6.30pm_Heartfulness Meditation.ics': require('./ical/India/20Jul_6.30pm_Heartfulness Meditation.ics') as string,
-  'public/iCal-invites/India/21 Jul_10am_Be My Guest.ics': require('./ical/India/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/India/21 Jul_2pm_Acing internal interviews.ics': require('./ical/India/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/India/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/India/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/Indonesia/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/Indonesia/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/Indonesia/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/Indonesia/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/Indonesia/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/Indonesia/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/Indonesia/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/Indonesia/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/Indonesia/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/Indonesia/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_2pm_Retirement Planning.ics': require('./ical/Indonesia/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_3pm_Nutrition.ics': require('./ical/Indonesia/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_3pm_Sleep.ics': require('./ical/Indonesia/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_4pm_Timeboxing.ics': require('./ical/Indonesia/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/Indonesia/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/Indonesia/20 Jul_6pm_Physical Activity Poundfit _IDO.ics': require('./ical/Indonesia/20 Jul_6pm_Physical Activity Poundfit _IDO.ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_10am_Be My Guest.ics': require('./ical/Indonesia/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_11am_Career Jam (ID).ics': require('./ical/Indonesia/21 Jul_11am_Career Jam (ID).ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_12pm_Financial Literacy.ics': require('./ical/Indonesia/21 Jul_12pm_Financial Literacy.ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_2pm_Acing internal interviews.ics': require('./ical/Indonesia/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_6pm_Physical Activity Running_IDO.ics': require('./ical/Indonesia/21 Jul_6pm_Physical Activity Running_IDO.ics') as string,
-  'public/iCal-invites/Indonesia/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/Indonesia/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/International Centres/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/International Centres/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/International Centres/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/International Centres/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/International Centres/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/International Centres/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/International Centres/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/International Centres/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/International Centres/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/International Centres/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_2pm_Retirement Planning.ics': require('./ical/International Centres/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_3pm_Nutrition.ics': require('./ical/International Centres/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_3pm_Sleep.ics': require('./ical/International Centres/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_4pm_Timeboxing.ics': require('./ical/International Centres/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/International Centres/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/International Centres/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/International Centres/21 Jul_10am_Be My Guest.ics': require('./ical/International Centres/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/International Centres/21 Jul_2pm_Acing internal interviews.ics': require('./ical/International Centres/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/International Centres/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/International Centres/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/Running.ics': require('./ical/Running.ics') as string,
-  'public/iCal-invites/Shaping the Future of Work.ics': require('./ical/Shaping the Future of Work.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/Singapore/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/Singapore/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/Singapore/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/Singapore/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/Singapore/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/Singapore/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/Singapore/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/Singapore/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/Singapore/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_11am_CPF Schemes and Retirement Planning Strategies.ics': require('./ical/Singapore/20 Jul_11am_CPF Schemes and Retirement Planning Strategies.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/Singapore/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_2pm_Retirement Planning.ics': require('./ical/Singapore/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_3pm_Nutrition.ics': require('./ical/Singapore/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_3pm_Sleep.ics': require('./ical/Singapore/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_4pm_Timeboxing.ics': require('./ical/Singapore/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/Singapore/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/Singapore/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_10am_Be My Guest.ics': require('./ical/Singapore/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_11am_Career Jam.ics': require('./ical/Singapore/21 Jul_11am_Career Jam.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_12pm_Navigating healthcare costs Shield plans coverage and claims.ics': require('./ical/Singapore/21 Jul_12pm_Navigating healthcare costs Shield plans coverage and claims.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_2pm_Acing internal interviews.ics': require('./ical/Singapore/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_3pm_Tai-chi.ics': require('./ical/Singapore/21 Jul_3pm_Tai-chi.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_4pm_Running.ics': require('./ical/Singapore/21 Jul_4pm_Running.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_4pm_Zumba.ics': require('./ical/Singapore/21 Jul_4pm_Zumba.ics') as string,
-  'public/iCal-invites/Singapore/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/Singapore/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string,
-  'public/iCal-invites/Sleep.ics': require('./ical/Sleep.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_11am_Entrepreneurship & Resilience.ics': require('./ical/Taiwan/19 Jul_11am_Entrepreneurship & Resilience.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics': require('./ical/Taiwan/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_2pm_GMC Career Journey Sharing.ics': require('./ical/Taiwan/19 Jul_2pm_GMC Career Journey Sharing.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_3pm_EX Council Workbench Workflow.ics': require('./ical/Taiwan/19 Jul_3pm_EX Council Workbench Workflow.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_4pm_The Art of Prioritisation.ics': require('./ical/Taiwan/19 Jul_4pm_The Art of Prioritisation.ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_5pm_What to Say After R U OK (For Managers).ics': require('./ical/Taiwan/19 Jul_5pm_What to Say After R U OK (For Managers).ics') as string,
-  'public/iCal-invites/Taiwan/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics': require('./ical/Taiwan/19 Jul_9am_Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics': require('./ical/Taiwan/20 Jul_10am_From Insights to Action Exploring the Impact of Generative AI on Work, Learning, and Society.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_11am_Retirement Planning - Never too early Never too late.ics': require('./ical/Taiwan/20 Jul_11am_Retirement Planning - Never too early Never too late.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_1pm_Critical skills to thrive at the workplace.ics': require('./ical/Taiwan/20 Jul_1pm_Critical skills to thrive at the workplace.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_2pm_Retirement Planning.ics': require('./ical/Taiwan/20 Jul_2pm_Retirement Planning.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_3pm_Nutrition.ics': require('./ical/Taiwan/20 Jul_3pm_Nutrition.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_3pm_Sleep.ics': require('./ical/Taiwan/20 Jul_3pm_Sleep.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_4pm_Timeboxing.ics': require('./ical/Taiwan/20 Jul_4pm_Timeboxing.ics') as string,
-  'public/iCal-invites/Taiwan/20 Jul_5pm_Finding RED through Effective Empathy.ics': require('./ical/Taiwan/20 Jul_5pm_Finding RED through Effective Empathy.ics') as string,
-  'public/iCal-invites/Taiwan/21 Jul_10am_Be My Guest.ics': require('./ical/Taiwan/21 Jul_10am_Be My Guest.ics') as string,
-  'public/iCal-invites/Taiwan/21 Jul_11am_Career Jam (TW).ics': require('./ical/Taiwan/21 Jul_11am_Career Jam (TW).ics') as string,
-  'public/iCal-invites/Taiwan/21 Jul_2pm_Acing internal interviews.ics': require('./ical/Taiwan/21 Jul_2pm_Acing internal interviews.ics') as string,
-  'public/iCal-invites/Taiwan/21 Jul_4pm_Align your spine feel just fine.ics': require('./ical/Taiwan/21 Jul_4pm_Align your spine feel just fine.ics') as string,
-  'public/iCal-invites/Taiwan/21 Jul_9am_Behavioural Science and the science of happiness.ics': require('./ical/Taiwan/21 Jul_9am_Behavioural Science and the science of happiness.ics') as string
-};
-
 const FFW2023_LOTTIE_MAP: Record<string, object> = {
   'public/json/Bag.json': require('./lottie/Bag.json'),
   'public/json/Coin.json': require('./lottie/Coin.json'),
@@ -253,32 +84,15 @@ export function resolveFfw2023Image(classicPath: string): string {
   return url;
 }
 
-/** Resolve classic `public/iCal-invites/...` path to bundled .ics URL. */
-export function resolveFfw2023Ical(classicPath: string): string {
-  const normalized = classicPath.replace(/\\/g, '/');
-  const url = FFW2023_ICAL_MAP[normalized];
-
-  if (!url) {
-    console.warn('[Ffw2023] Missing bundled iCal for:', normalized);
-    return normalized;
-  }
-
-  return url;
-}
-
 /** Bundled Lottie animation data for hero decorations. */
 export function getFfw2023LottieAnimation(classicPath: string): object | undefined {
   const normalized = classicPath.replace(/\\/g, '/');
   return FFW2023_LOTTIE_MAP[normalized];
 }
 
-/** Resolve any classic public asset path (images or iCal). */
+/** Resolve bundled image paths only (iCal uses SiteAssets — see ffw2023SiteAssetUrls). */
 export function resolveFfw2023Asset(classicPath: string): string {
   const normalized = classicPath.replace(/\\/g, '/');
-
-  if (normalized.indexOf('public/iCal-invites/') === 0) {
-    return resolveFfw2023Ical(normalized);
-  }
 
   if (normalized.indexOf('public/images/') === 0) {
     return resolveFfw2023Image(normalized);

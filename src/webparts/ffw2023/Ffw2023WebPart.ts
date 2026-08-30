@@ -15,10 +15,15 @@ import { IFfw2023Props } from './components/IFfw2023Props';
 export interface IFfw2023WebPartProps {
   classicYear: string;
   galleryDownloadUrl: string;
+  icalBaseUrl: string;
 }
 
 const DEFAULT_GALLERY_DOWNLOAD =
   'https://dbs1bank.sharepoint.com/:f:/s/FutureForwardWeek2023/EunJzHpJQoJMmFO0zJrc7wsBcEj1uk5vuClAASC3MkW7Mg?e=YA2iFa';
+
+function getDefaultIcalBaseUrl(webAbsoluteUrl: string): string {
+  return `${webAbsoluteUrl.replace(/\/$/, '')}/SiteAssets/FFW2023`;
+}
 
 export default class Ffw2023WebPart extends BaseClientSideWebPart<IFfw2023WebPartProps> {
 
@@ -31,6 +36,7 @@ export default class Ffw2023WebPart extends BaseClientSideWebPart<IFfw2023WebPar
         classicYear: this.properties.classicYear || '2023',
         classicPage: 'index.aspx',
         galleryDownloadUrl: this.properties.galleryDownloadUrl || DEFAULT_GALLERY_DOWNLOAD,
+        icalBaseUrl: this.properties.icalBaseUrl || getDefaultIcalBaseUrl(this.context.pageContext.web.absoluteUrl),
         onHostLayout: () => this._hostUnlock?.refresh()
       }
     );
@@ -82,6 +88,10 @@ export default class Ffw2023WebPart extends BaseClientSideWebPart<IFfw2023WebPar
                 PropertyPaneTextField('galleryDownloadUrl', {
                   label: strings.GalleryDownloadUrlFieldLabel,
                   description: strings.GalleryDownloadUrlFieldDescription
+                }),
+                PropertyPaneTextField('icalBaseUrl', {
+                  label: strings.IcalBaseUrlFieldLabel,
+                  description: strings.IcalBaseUrlFieldDescription
                 })
               ]
             }

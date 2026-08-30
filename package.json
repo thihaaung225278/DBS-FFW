@@ -12,7 +12,6 @@
     "serve": "gulp serve --config=fullWidth",
     "serve:fullWidth": "gulp serve --config=fullWidth",
     "serve:workbench": "gulp serve --config=workbench",
-    "serve:dbsffw": "gulp serve --config=dbsffw",
     "serve:ffw2023": "gulp serve --config=ffw2023",
     "test": "gulp test",
     "prepare:ffw2023-assets": "node scripts/prepare-ffw2023-assets.mjs",

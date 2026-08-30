@@ -2,14 +2,6 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
   "version": "2.0",
   "bundles": {
-    "ffw-web-part": {
-      "components": [
-        {
-          "entrypoint": "./lib/webparts/ffw/FfwWebPart.js",
-          "manifest": "./src/webparts/ffw/FfwWebPart.manifest.json"
-        }
-      ]
-    },
     "ffw2023-web-part": {
       "components": [
         {
@@ -29,7 +21,6 @@
   },
   "externals": {},
   "localizedResources": {
-    "FfwWebPartStrings": "lib/webparts/ffw/loc/{locale}.js",
     "Ffw2023WebPartStrings": "lib/webparts/ffw2023/loc/{locale}.js",
     "PostEvent2023WebPartStrings": "lib/webparts/postEvent2023/loc/{locale}.js"
   }

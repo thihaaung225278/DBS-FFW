@@ -4,6 +4,8 @@ declare interface IFfw2023WebPartStrings {
   ClassicYearFieldLabel: string;
   GalleryDownloadUrlFieldLabel: string;
   GalleryDownloadUrlFieldDescription: string;
+  IcalBaseUrlFieldLabel: string;
+  IcalBaseUrlFieldDescription: string;
 }
 
 declare module 'Ffw2023WebPartStrings' {
