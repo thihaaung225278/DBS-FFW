@@ -2,8 +2,8 @@ declare interface IPostEvent2023WebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
   ClassicYearFieldLabel: string;
-  JsonBaseUrlFieldLabel: string;
-  JsonBaseUrlFieldDescription: string;
+  IcalBaseUrlFieldLabel: string;
+  IcalBaseUrlFieldDescription: string;
 }
 
 declare module 'PostEvent2023WebPartStrings' {

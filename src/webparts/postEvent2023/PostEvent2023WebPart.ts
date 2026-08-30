@@ -14,7 +14,11 @@ import { IPostEvent2023Props } from './components/IPostEvent2023Props';
 
 export interface IPostEvent2023WebPartProps {
   classicYear: string;
-  jsonBaseUrl: string;
+  icalBaseUrl: string;
+}
+
+function getDefaultIcalBaseUrl(webAbsoluteUrl: string): string {
+  return `${webAbsoluteUrl.replace(/\/$/, '')}/SiteAssets/FFW2023`;
 }
 
 export default class PostEvent2023WebPart extends BaseClientSideWebPart<IPostEvent2023WebPartProps> {
@@ -27,19 +31,29 @@ export default class PostEvent2023WebPart extends BaseClientSideWebPart<IPostEve
       {
         classicYear: this.properties.classicYear || '2023',
         classicPage: 'post-event.aspx',
-        jsonBaseUrl: this.properties.jsonBaseUrl || ''
+        icalBaseUrl: this.properties.icalBaseUrl || getDefaultIcalBaseUrl(this.context.pageContext.web.absoluteUrl),
+        onHostLayout: () => this._hostUnlock?.refresh()
       }
     );
 
     ReactDom.render(element, this.domElement);
 
-    const contentRoot = findClassicContentRoot(this.domElement, 'postEvent2023Root');
+    const contentRoot = findClassicContentRoot(this.domElement, 'ffw2023Root');
 
     if (!this._hostUnlock) {
-      this._hostUnlock = unlockClassicHost(this.domElement, contentRoot);
+      this._hostUnlock = unlockClassicHost(this.domElement, contentRoot, {
+        pageBackground: '#FFE5D4'
+      });
     } else {
       this._hostUnlock.refresh();
     }
+
+    this.scheduleHostRefresh();
+  }
+
+  private scheduleHostRefresh(): void {
+    window.setTimeout(() => this._hostUnlock?.refresh(), 0);
+    window.setTimeout(() => this._hostUnlock?.refresh(), 500);
   }
 
   protected onDispose(): void {
@@ -66,9 +80,9 @@ export default class PostEvent2023WebPart extends BaseClientSideWebPart<IPostEve
                 PropertyPaneTextField('classicYear', {
                   label: strings.ClassicYearFieldLabel
                 }),
-                PropertyPaneTextField('jsonBaseUrl', {
-                  label: strings.JsonBaseUrlFieldLabel,
-                  description: strings.JsonBaseUrlFieldDescription
+                PropertyPaneTextField('icalBaseUrl', {
+                  label: strings.IcalBaseUrlFieldLabel,
+                  description: strings.IcalBaseUrlFieldDescription
                 })
               ]
             }

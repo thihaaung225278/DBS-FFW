@@ -13,11 +13,11 @@
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
     "group": { "default": "Advanced" },
     "title": { "default": "Post Event 2023" },
-    "description": { "default": "DBS FFW 2023 post-event page (classic post-event.aspx baseline)" },
+    "description": { "default": "DBS FFW 2023 post-event page (classic post-event.aspx)" },
     "officeFabricIconFontName": "Page",
     "properties": {
       "classicYear": "2023",
-      "jsonBaseUrl": ""
+      "icalBaseUrl": ""
     }
   }]
 }

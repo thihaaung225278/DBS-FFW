@@ -20,6 +20,24 @@
       ]
     },
     {
+      "name": "DBSFFW post-event (local serve)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/post-event.aspx?env=WebView&loadSPFX=true&debug=true&noredir=true&debugManifestsFile=https://localhost:4321/temp/manifests.js",
+      "webRoot": "${workspaceRoot}",
+      "sourceMaps": true,
+      "sourceMapPathOverrides": {
+        "webpack:///.././src/*": "${webRoot}/src/*",
+        "webpack:///../../../src/*": "${webRoot}/src/*",
+        "webpack:///../../../../src/*": "${webRoot}/src/*",
+        "webpack:///../../../../../src/*": "${webRoot}/src/*"
+      },
+      "runtimeArgs": [
+        "--remote-debugging-port=9222",
+        "-incognito"
+      ]
+    },
+    {
       "name": "DBSFFW hosted workbench",
       "type": "msedge",
       "request": "launch",

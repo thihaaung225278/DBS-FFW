@@ -369,6 +369,7 @@ section .card-wrap p.busu {
 #highlight .card-content .card .contents .title {
   font-size: 25px;
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
   padding-bottom: 10px;
 }
 
@@ -381,6 +382,28 @@ section .card-wrap p.busu {
   font-size: 12px;
   line-height: 16px;
   font-family: 'OpenSans-SemiBold';
+  font-weight: 400;
+}
+
+/* UIKit JS uk-grid-margin fallback — same 2-col breakpoints as #game_show_winners */
+#highlight .uk-grid > * {
+  @media (max-width: 959px) {
+    &:nth-child(n + 2) {
+      margin-top: 30px;
+    }
+  }
+
+  @media (min-width: 960px) and (max-width: 1199px) {
+    &:nth-child(n + 3) {
+      margin-top: 30px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    &:nth-child(n + 3) {
+      margin-top: 40px;
+    }
+  }
 }
 
 .highlight-card {
@@ -405,7 +428,7 @@ section .card-wrap p.busu {
   position: absolute;
   width: 100%;
   height: 252px;
-  background-image: none;
+  background-image: url('../assets/img/overlay.webp');
   left: 0;
 }
 
@@ -669,6 +692,7 @@ section .uk-container {
   font-size: 18px;
   color: #333333;
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
   border-right: 1px solid #CCCCCC;
 }
 
@@ -716,6 +740,7 @@ section .uk-container {
     display: block;
     font-size: 25px;
     font-family: 'OpenSans-Bold';
+    font-weight: 400;
     line-height: 30px;
     padding-bottom: 30px;
     text-align: center;
@@ -758,6 +783,7 @@ section .uk-container {
 
 .text-intro span {
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
 }
 
 a:hover {
@@ -838,6 +864,7 @@ a:hover {
 
 .tab-content .tab-pane .contents .center-content .title p, .past-event-tab-content .tab-pane .contents .center-content .title p {
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
 }
 
 .tab-content .tab-pane .contents .center-content ul, .tab-content .tab-pane .contents .center-content ol, .past-event-tab-content .tab-pane .contents .center-content ul, .past-event-tab-content .tab-pane .contents .center-content ol {
@@ -857,6 +884,7 @@ a:hover {
   display: flex;
   align-items: start;
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
 }
 
 @media screen and (max-width: 640px) {
@@ -905,6 +933,7 @@ a:hover {
 .tab-content .tab-pane .contents .right-content a, .past-event-tab-content .tab-pane .contents .right-content a {
   color: #333333;
   font-family: 'OpenSans-Bold';
+  font-weight: 400;
   font-size: 14px;
   align-items: center;
   margin-bottom: 20px;
