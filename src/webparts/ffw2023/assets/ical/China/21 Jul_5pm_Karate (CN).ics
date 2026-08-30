@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Lillian Mi Jing MAO";RSVP=TRUE:mailto:lillianmao@dbs.com
+ATTENDEE;CN="Kevin Jia Hong YU";RSVP=TRUE:mailto:kevinyu@dbs.com
+ATTENDEE;CN="Mandy Qian ZHOU";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:mandyzh
+	ou@dbs.com
+CLASS:PUBLIC
+CREATED:20230625T024403Z
+DESCRIPTION:Topic	:	Physical Activity_Karate (CN)	\nSynopsis	:	Join us in t
+	his session to know how to get start and what to prepare with joyful exper
+	iential exercise	\nLead	:	Lillian MAO\, 星展功夫研习塾	\n\n
+DTEND;TZID="China Standard Time":20230721T180000
+DTSTAMP:20230621T063228Z
+DTSTART;TZID="China Standard Time":20230721T170000
+LAST-MODIFIED:20230625T024403Z
+LOCATION:Xintiandi@DBS Tower 17F
+ORGANIZER;CN="Miya Ya Ao ZHOU":mailto:miyazhou@dbs.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Physical Activity_Karate (CN)
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000CECE4963A3D901000000000000000
+	010000000DC96C1474CF36F458F8E273DEDDD7C61
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15601.20636">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><B><FONT SIZE=2
+	 FACE="Arial">Topic&nbsp\;&nbsp\;</FONT></B></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	 <FONT SIZE=2 FACE="Arial">:&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FO
+	NT> <FONT SIZE=2 FACE="Arial">Physical Activity_Karate (CN)&nbsp\;&nbsp\;<
+	/FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"><B></B></SPAN><SPAN LANG="en-us"><B><FONT SIZE=2 FACE="Arial">Synopsis&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></B></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"> <FONT SIZE=2 FACE="Arial">:&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#000000" SIZE
+	=2 FACE="Arial">Join us in this session to know how to get start and what 
+	to prepare with joyful experiential exercise&nbsp\;</FONT></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN 
+	LANG="en-us"><B><FONT SIZE=2 FACE="Arial">Lead&nbsp\;&nbsp\;&nbsp\;</FONT>
+	</B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Arial">:&nbsp\;&nbsp
+	\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Arial">Li
+	llian MAO\,</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"> <FONT FACE="DengXian">星展功夫研习塾</FONT><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">&nbsp\;&nbsp\;&nbsp
+	\;</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230621T063228Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

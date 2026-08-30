@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index.aspx?env=WebView&loadSPFX=true",
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index.aspx?env=WebView&loadSPFX=true"
+    },
+    "fullWidth": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index.aspx?env=WebView&loadSPFX=true"
+    },
+    "workbench": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/_layouts/15/workbench.aspx"
+    },
+    "dbsffw": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index.aspx?env=WebView&loadSPFX=true"
+    },
+    "ffw2023": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index.aspx?env=WebView&loadSPFX=true"
+    },
+    "postEvent2023": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/post-event.aspx?env=WebView&loadSPFX=true"
+    }
+  }
+}

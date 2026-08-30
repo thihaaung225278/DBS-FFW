@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:SE Asia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Anna Virenzia HARTOJO";RSVP=TRUE:mailto:annavirenzia@dbs.com
+ATTENDEE;CN="Novita -";RSVP=TRUE:mailto:novita@dbs.com
+CLASS:PUBLIC
+CREATED:20230626T065938Z
+DESCRIPTION:Topic\n\nOnsite Event: Physical Activity - Running\n\nSynopsis\
+	n\nTotal of 60 min workshop covers:\n\n- Practioner sharing on how to get 
+	start and what to prepare \n\n - Experiential exercise\n\nLocation\n\nFutu
+	re Forward Week Event Venue: Capital Place 11th Fl\n\n \n\n
+DTEND;TZID="SE Asia Standard Time":20230721T183000
+DTSTAMP:20230626T065847Z
+DTSTART;TZID="SE Asia Standard Time":20230721T170000
+LAST-MODIFIED:20230626T065938Z
+LOCATION:Future Forward Week Event Venue: Capital Place 11th Fl
+ORGANIZER;CN="Rosza Yulistina":mailto:roszayulistina@dbs.com
+PRIORITY:5
+SEQUENCE:3
+SUMMARY;LANGUAGE=en-us:Onsite Event: Physical Activity - Running
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C0B0D18130A8D901000000000000000
+	01000000018CD6EB016F05A41B24E0A51C5C4B6EC
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" x
+	mlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://ww
+	w.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word
+	 15 (filtered medium)"><style><!--\n/* Font Definitions */\n@font-face\n	{
+	font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face
+	\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n
+		{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{
+	font-family:"\\@DengXian"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n/* Style De
+	finitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n
+		font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.EmailStyl
+	e18\n	{mso-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-ser
+	if\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;
+	\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin
+	:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n-->
+	</style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1
+	026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=
+	"edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif
+	]--></head><body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wra
+	p:break-word'><div class=WordSection1><table class=MsoNormalTable border=1
+	 cellspacing=0 cellpadding=0 style='border-collapse:collapse\;border:none'
+	><tr style='height:28.7pt'><td width=87 valign=top style='width:64.9pt\;bo
+	rder:solid windowtext 1.0pt\;padding:0in 5.4pt 0in 5.4pt\;height:28.7pt'><
+	p class=MsoNormal><b>Topic<o:p></o:p></b></p></td><td width=666 valign=top
+	 style='width:499.55pt\;border:solid windowtext 1.0pt\;border-left:none\;p
+	adding:0in 5.4pt 0in 5.4pt\;height:28.7pt'><p class=MsoNormal>Onsite Event
+	: Physical Activity - Running<o:p></o:p></p></td></tr><tr style='height:25
+	.55pt'><td width=87 valign=top style='width:64.9pt\;border:solid windowtex
+	t 1.0pt\;border-top:none\;padding:0in 5.4pt 0in 5.4pt\;height:25.55pt'><p 
+	class=MsoNormal><b>Synopsis<o:p></o:p></b></p></td><td width=666 valign=to
+	p style='width:499.55pt\;border-top:none\;border-left:none\;border-bottom:
+	solid windowtext 1.0pt\;border-right:solid windowtext 1.0pt\;padding:0in 5
+	.4pt 0in 5.4pt\;height:25.55pt'><p class=MsoNormal>Total of 60 min worksho
+	p covers:<o:p></o:p></p><p class=MsoNormal>- Practioner sharing on how to 
+	get start and what to prepare <o:p></o:p></p><p class=MsoNormal>&nbsp\;- E
+	xperiential exercise<o:p></o:p></p></td></tr><tr style='height:12.6pt'><td
+	 width=87 valign=top style='width:64.9pt\;border:solid windowtext 1.0pt\;b
+	order-top:none\;padding:0in 5.4pt 0in 5.4pt\;height:12.6pt'><p class=MsoNo
+	rmal><b>Location<o:p></o:p></b></p></td><td width=666 valign=top style='wi
+	dth:499.55pt\;border-top:none\;border-left:none\;border-bottom:solid windo
+	wtext 1.0pt\;border-right:solid windowtext 1.0pt\;padding:0in 5.4pt 0in 5.
+	4pt\;height:12.6pt'><p class=MsoNormal>Future Forward Week Event Venue: Ca
+	pital Place 11th Fl<o:p></o:p></p></td></tr></table><p class=MsoNormal><o:
+	p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20230626T065847Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "DBS-FFW-SPFX",
+    "environment": "spo",
+    "packageManager": "npm",
+    "skipFeatureDeployment": true,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "Ffw",
+    "componentDescription": "DBS FFW client-side web part",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "dbs-ffw-spfx",
+    "libraryId": "25fc5d1f-10f6-4303-b564-259cd161c332",
+    "solutionShortDescription": "DBS-FFW-SPFX description",
+    "isDomainIsolated": false
+  }
+}

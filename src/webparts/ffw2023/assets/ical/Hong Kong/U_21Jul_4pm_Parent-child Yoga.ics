@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Venus Pui Ki LAM";RSVP=TRUE:mailto:venuslampk@dbs.com
+ATTENDEE;CN="Flora HUNG";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:florahung@db
+	s.com
+ATTENDEE;CN="Sandy Yuk Shan TSE";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:sand
+	ytse@dbs.com
+ATTENDEE;CN="Sam Siu Yim WONG";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:samwon
+	gssy@dbs.com
+ATTENDEE;CN="Michelle Chui Shan TSANG";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:michelletsang@dbs.com
+ATTENDEE;CN="Astor Ka Yan TAM";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:astort
+	am@dbs.com
+CLASS:PUBLIC
+CREATED:20230623T021031Z
+DESCRIPTION:Topic	:	Family Fun Day - Parent-child Yoga	\nSynopsis	:	Unleash
+	 the power of yoga and strengthen your bond with your children in a natura
+	l and healthy way!  Join us now and let's practice yoga together!	\nSpeake
+	rs	:	Mr Boris Chan\, Head of Global Transaction Banking\, GTS (HKMC member
+	)\nMs Celia Wan\, Team Lead\, Media Relations\, GSMC (Instructor)	\n\n____
+	__________________________________________________________________________
+	________________________________\n\nOption 1 – If you are joining via a 
+	laptop or mobile device through the application:\n1. Click on this hyperli
+	nk: Webex Meeting Link  <https://dbs.webex.com/dbs/j.php?MTID=m15f0168d112
+	63d72a748b91de677ad5a> \n2. Use a headset for a better experience\n*Visit 
+	here  <https://dbs1bank.sharepoint.com/sites/sgFOW/SitePages/fow/digital-t
+	ools.aspx?market=Singapore&category=Communication> to find out more about 
+	Webex \n\nMeeting password: YwfsZ9vUe24 (only if asked)\n\nOption 2 – If
+	 you are joining via Cisco VC Equipment:\nUse the Touch Panel to dial in\n
+	1. Press the "Call" icon\n2. Dial 25195919429@dbs.webex.com <mailto:251959
+	19429@dbs.webex.com>  into the search bar and press "Call" \n3. If you are
+	 the host\, enter your 6-digit one-time Host KEY. Click here to see how to
+	 retrieve your Host KEY  <https://dbs1bank.sharepoint.com/sites/sgFOW/Shar
+	ed Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2FsgFOW%2FShared%20Docu
+	ments&id=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx%2FUser%20G
+	uide%5FHost%5FPIN%2Epdf&viewid=1b23a731%2D8c47%2D42f0%2Dbd84%2Db790e52deff
+	a&parent=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx> \n\nOptio
+	n 3 – If you are joining via a laptop through the Web browser: \nFor ext
+	ernal parties who do not wish to download the application \n1. Click on th
+	is hyperlink: Webex Meeting Link  <https://dbs.webex.com/dbs/j.php?MTID=m1
+	5f0168d11263d72a748b91de677ad5a> \n2. Click on ‘Cancel button’ if a po
+	pup ‘Open Webex?' appears \n3. Click on ‘Join from your browser’ \n4
+	. Enter your Name and Email Address and join the meeting \n\nClick here  <
+	https://help.webex.com/en-us/article/nrbgeodb/Join-a-Webex-Meeting> to fin
+	d out more\n\nOption 4 – If you are dialling in via phone (audio only):\
+	n*Toll charges / Long distance charges may apply.\nNote if you are the hos
+	t\, please use either Option 1 or 2 to start the meeting.\nSingapore +65-3
+	157-6442 <tel:%2B65-3157-6442\,\,1%23\,%23> \nHong Kong +852-3018-6828 <te
+	l:%2B852-3018-6828\,\,1%23\,%23> \nIndia\, Mumbai +91-22-6480-0114 <tel:%2
+	B91-22-6480-0114\,\,1%23\,%23> \nIndia\, Hyderabad +91-40-6480-0114 <tel:%
+	2B91-40-6480-0114\,\,1%23\,%23> \nTaiwan +886-2-5594-0839 <tel:%2B886-2-55
+	94-0839\,\,1%23\,%23> \n\nMeeting Number: 2519 591 9429#\nGlobal call-in n
+	umbers  <https://dbs.webex.com/dbs/globalcallin.php> \n\n\nUseful Links:\n
+	Need help? Contact Webex Support Team!  <mailto:webexsupport@dbs.com> \n\n
+DTEND;TZID="China Standard Time":20230721T170000
+DTSTAMP:20230623T005622Z
+DTSTART;TZID="China Standard Time":20230721T160000
+LAST-MODIFIED:20230623T021031Z
+LOCATION:3/F DigiHub / Webinar
+ORGANIZER;CN="Debby Suk Ching WONG":mailto:debbywongdsc@dbs.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Future Forward Week - Family Fun Day (Parent-child Y
+	oga)
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000020A25A1E77A4D901000000000000000
+	01000000059DB7277981D8C4BA62DE8B845402893
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15601.20636">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><B><SPAN LANG="en-us"><FONT SIZE=2
+	 FACE="Calibri">Topic</FONT></SPAN></B><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B></
+	B></SPAN><B><SPAN LANG="en-us">&nbsp\;&nbsp\;</SPAN></B><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FAC
+	E="Calibri">:&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"> <FONT COLOR="#000000" SIZE=2 FACE="Calibri">Family Fun 
+	Day -</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#000000" SIZE=2 FA
+	CE="Calibri">Parent-child Yoga</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us">&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en
+	-us"><B></B></SPAN><B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT S
+	IZE=2 FACE="Calibri">Synopsis&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;</FONT></SPAN></B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">:&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FA
+	CE="Calibri">Unleash the power of yoga and strengthen your bond with your 
+	children in a natur</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE=
+	"Calibri">a</FONT><FONT SIZE=2 FACE="Calibri">l</FONT></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"><FONT SIZE=2 FACE="Calibri"> and healthy way!&nbsp\; J</FONT></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE="Calibri">oi</FONT></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"><FONT SIZE=2 FACE="Calibri">n us now and let's practic
+	e yoga together</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE="Cal
+	ibri">!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+	bsp\;</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-
+	us"><B></B></SPAN><B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SI
+	ZE=2 FACE="Calibri">Speakers&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;</FONT></SPAN></B><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">:&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">M</FONT><F
+	ONT SIZE=2 FACE="Calibri">r</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">Bor
+	</FONT><FONT SIZE=2 FACE="Calibri">is</FONT> <FONT SIZE=2 FACE="Calibri">C
+	ha</FONT><FONT SIZE=2 FACE="Calibri">n\, Head of G</FONT></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT SIZ
+	E=2 FACE="Calibri">lob</FONT><FONT SIZE=2 FACE="Calibri">al Trans</FONT><F
+	ONT SIZE=2 FACE="Calibri">a</FONT><FONT SIZE=2 FACE="Calibri">ction Bankin
+	g</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"><FONT SIZE=2 FACE="Calibri">\,</FONT> <FONT SIZE=2 FACE="C
+	alibri">GTS</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">(HK</FONT><FONT SIZ
+	E=2 FACE="Calibri">MC member)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT SIZE=
+	2 FACE="Calibri">Ms</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"> <FONT SIZE=2 FACE="Calibri">Celia Wan\,
+	</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"> <FONT SIZE=2 FACE="Calibri">Team</FONT> <FONT SIZE=2 FACE=
+	"Calibri">Lead\,</FONT> <FONT SIZE=2 FACE="Calibri">Media</FONT><FONT SIZE
+	=2 FACE="Calibri"></FONT> <FONT SIZE=2 FACE="Calibri">Relations\,</FONT> <
+	FONT SIZE=2 FACE="Calibri">GSMC (I</FONT><FONT SIZE=2 FACE="Calibri">nstru
+	ctor)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#C00000" SI
+	ZE=2 FACE="Segoe UI">_</FONT></SPAN><A NAME=""><SPAN LANG="en-us"><FONT CO
+	LOR="#C00000" SIZE=2 FACE="Segoe UI">_____________________________________
+	________________________________________________________________________</
+	FONT></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"><BR>\n<BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#00000
+	0" SIZE=4 FACE="Segoe UI">Option 1</FONT> <FONT COLOR="#000000" SIZE=4 FAC
+	E="Segoe UI">–</FONT><FONT COLOR="#000000" SIZE=4 FACE="Segoe UI"> If yo
+	u are joining via a laptop or mobile device through the application:</FONT
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#808080" SIZE=2 FACE
+	="Segoe UI">1. Click on this hyperlink:</FONT></SPAN><SPAN LANG="en-us"> <
+	/SPAN><A HREF="https://dbs.webex.com/dbs/j.php?MTID=m15f0168d11263d72a748b
+	91de677ad5a"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#00AFF9" SIZE=2
+	 FACE="Segoe UI">Webex Meeting Link</FONT></U></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"><U></U><U><FONT COLOR="#0563C1" SIZE=2 FACE="Segoe UI"></FONT></U></SPAN
+	><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLO
+	R="#808080" SIZE=2 FACE="Segoe UI">2. Use a headset for a better experienc
+	e</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#808080" SIZE
+	=2 FACE="Segoe UI">*Visit</FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF=
+	"https://dbs1bank.sharepoint.com/sites/sgFOW/SitePages/fow/digital-tools.a
+	spx?market=Singapore&amp\;category=Communication"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C1" FA
+	CE="Calibri">her</FONT><FONT COLOR="#0563C1" FACE="Calibri">e</FONT><FONT 
+	COLOR="#0563C1" FACE="Calibri"></FONT></U></SPAN><SPAN LANG="en-us"></SPAN
+	></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">
+	to find out more about Webex</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	><BR>\n<FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">Meeting password: Ywfs
+	Z9vUe24 (only if asked)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"><BR>\n<BR>\n</SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"><FONT COLOR="#000000" SIZE=4 FACE="Segoe UI">Option 2</FONT> <FONT COLOR
+	="#000000" SIZE=4 FACE="Segoe UI">–</FONT><FONT COLOR="#000000" SIZE=4 F
+	ACE="Segoe UI"> If you are joining via Cisco VC Equipment:</FONT></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\
+	n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI
+	">Use the Touch Panel to dial in</FONT></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">1. Press the &quot\;Call
+	&quot\; icon</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#8
+	08080" SIZE=2 FACE="Segoe UI">2. Dial</FONT></SPAN><SPAN LANG="en-us"> </S
+	PAN><A HREF="mailto:25195919429@dbs.webex.com"><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-u
+	s"><B><U></U><U><FONT COLOR="#0563C1" SIZE=2 FACE="Segoe UI">25195919429@d
+	bs.webex.com</FONT></U></B></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI"> into the search
+	 bar and press</FONT><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI"> &quot\;
+	Call&quot\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#80
+	8080" SIZE=2 FACE="Segoe UI">3. If you are the host\, enter your 6-digit o
+	ne-time Host KEY. Click here to see how to</FONT></SPAN><SPAN LANG="en-us"
+	> </SPAN><A HREF="https://dbs1bank.sharepoint.com/sites/sgFOW/Shared Docum
+	ents/Forms/AllItems.aspx?viewpath=%2Fsites%2FsgFOW%2FShared%20Documents&am
+	p\;id=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx%2FUser%20Guid
+	e%5FHost%5FPIN%2Epdf&amp\;viewid=1b23a731%2D8c47%2D42f0%2Dbd84%2Db790e52de
+	ffa&amp\;parent=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx"><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"><U></U><U><FONT COLOR="#0000FF" SIZE=2 FACE="Segoe UI
+	">retrieve your Host KEY</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\
+	n<BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" SIZE=4 FACE="Se
+	goe UI">Option 3</FONT> <FONT COLOR="#000000" SIZE=4 FACE="Segoe UI">–</
+	FONT><FONT COLOR="#000000" SIZE=4 FACE="Segoe UI"> If you are joining via 
+	a lapto</FONT><FONT COLOR="#000000" SIZE=4 FACE="Segoe UI">p through the W
+	eb browser:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT COLOR="#808080
+	" SIZE=2 FACE="Segoe UI">For external parties who do not wish to download 
+	the application<BR>\n1. Click on this hyperlink:</FONT></SPAN><SPAN LANG="
+	en-us"> </SPAN><A HREF="https://dbs.webex.com/dbs/j.php?MTID=m15f0168d1126
+	3d72a748b91de677ad5a"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#00AFF
+	9" SIZE=2 FACE="Segoe UI">Webex Meeting Link</FONT></U></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"><U></U><U><FONT COLOR="#0563C1" SIZE=2 FACE="Segoe UI"></FONT><
+	/U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT
+	 COLOR="#808080" SIZE=2 FACE="Segoe UI">2. Click on</FONT> <FONT COLOR="#8
+	08080" SIZE=2 FACE="Segoe UI">‘</FONT><FONT COLOR="#808080" SIZE=2 FACE=
+	"Segoe UI">Cancel button</FONT><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI
+	">’</FONT><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI"> if a popup</FONT
+	> <FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">‘</FONT><FONT COLOR="#808
+	080" SIZE=2 FACE="Segoe UI">Open Webex?' appears<BR>\n3. Click on</FONT> <
+	FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">‘</FONT><FONT COLOR="#808080
+	" SIZE=2 FACE="Segoe UI">Join from your browser</FONT><FONT COLOR="#808080
+	" SIZE=2 FACE="Segoe UI">’</FONT><FONT COLOR="#808080" SIZE=2 FACE="Sego
+	e UI"><BR>\n4. Enter your Name and Email Address and join the</FONT><FONT 
+	COLOR="#808080" SIZE=2 FACE="Segoe UI"> meeting<BR>\n<BR>\nClick</FONT></S
+	PAN><SPAN LANG="en-us"> </SPAN><A HREF="https://help.webex.com/en-us/artic
+	le/nrbgeodb/Join-a-Webex-Meeting"><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT C
+	OLOR="#00AFF9" SIZE=2 FACE="Segoe UI">here</FONT></U></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><U></U><U><FONT COLOR="#0563C1" SIZE=2 FACE="Segoe UI"></FONT></U
+	></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR=
+	"#808080" SIZE=2 FACE="Segoe UI">to find out more<BR>\n<BR>\n</FONT></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" SIZE=4 FACE="Segoe UI">Optio
+	n 4</FONT> <FONT COLOR="#000000" SIZE=4 FACE="Segoe UI">–</FONT><FONT CO
+	LOR="#000000" SIZE=4 FACE="Segoe UI"> If you are dialling in via phone (au
+	dio only):</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT COLOR="#808080"
+	 SIZE=2 FACE="Segoe UI">*Toll charges / Long distance charges may apply.<B
+	R>\nNote if you</FONT><FONT COLOR="#808080" SIZE=2 FACE="Segoe UI"> are th
+	e host\, please use either Option 1 or 2 to start the meeting.<BR>\nSingap
+	ore</FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="tel:%2B65-3157-6442\,
+	\,1%23\,%23"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#666666" SIZE=2
+	 FACE="Segoe UI">+65-3157-6442</FONT></U></SPAN><SPAN LANG="en-us"></SPAN>
+	</A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"><BR>\n<FONT COLOR="#808080" SIZE=2 FACE="Segoe 
+	UI">Hong Kong</FONT></SPAN><SPAN LANG="en-us"> </SPAN><A HREF="tel:%2B852-
+	3018-6828\,\,1%23\,%23"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#666
+	666" SIZE=2 FACE="Segoe UI">+852-3018-6828</FONT></U></SPAN><SPAN LANG="en
+	-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT COLOR="#808080" SIZE=2 
+	FACE="Segoe UI">India\, Mumbai</FONT></SPAN><SPAN LANG="en-us"> </SPAN><A 
+	HREF="tel:%2B91-22-6480-0114\,\,1%23\,%23"><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><
+	U><FONT COLOR="#666666" SIZE=2 FACE="Segoe UI">+91-22-6480-0114</FONT></U>
+	</SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT CO
+	LOR="#808080" SIZE=2 FACE="Segoe UI">India\, Hyderabad</FONT></SPAN><SPAN 
+	LANG="en-us"> </SPAN><A HREF="tel:%2B91-40-6480-0114\,\,1%23\,%23"><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"><U></U><U><FONT COLOR="#666666" SIZE=2 FACE="Segoe UI">+91
+	-40-6480-0114</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"><BR>\n<FONT COLOR="#808080" SIZE=2 FACE="Segoe UI">Taiwan</FONT>
+	</SPAN><SPAN LANG="en-us"> </SPAN><A HREF="tel:%2B886-2-5594-0839\,\,1%23\
+	,%23"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#666666" SIZE=2 FACE="
+	Segoe UI">+886-2-5594-0839</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"><BR>\n<BR>\n<FONT COLOR="#808080" SIZE=2 FACE="Sego
+	e UI">Meeting Number:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B> <FONT
+	 COLOR="#808080" SIZE=2 FACE="Segoe UI">2519 591 9429#</FONT></B></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="https
+	://dbs.webex.com/dbs/globalcallin.php"><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><F
+	ONT COLOR="#00AFF9" SIZE=2 FACE="Segoe UI">Global call-in numbers</FONT></
+	U></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#0563C1" SIZE=2 FAC
+	E="Segoe UI"></FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"><BR>\n<BR>\n<BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT 
+	COLOR="#000000" SIZE=2 FACE="Segoe UI">Useful Links:</FONT></B></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="mailto:
+	webexsupport@dbs.com"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#00AFF
+	9" SIZE=2 FACE="Segoe UI">Need help? Contact Webex Support Team!</FONT></U
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"><U></U><U><FONT COLOR="#0563C1" SIZE=2 FACE
+	="Segoe UI"></FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> </SPAN></P>\n\n<
+	/BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20230623T005622Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,471 @@
+{
+    "participants": {
+        "sg": [{
+                "department": "Group Human Resources",
+                "name": "Jingting HONG"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Sok Fong TAY"
+            },
+            {
+                "department": "Capital Markets",
+                "name": "Yasmin MOHAMMAD HAYAT"
+            },
+            {
+                "department": "Capital Markets",
+                "name": "Claudia Yu Han TA"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Mary Mee Lin HO"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Clement Kok Cheng PUAH"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Mike Yan ZHANG"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Fiona Lay Mui LEE"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Bojun ZHANG"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Leh Jin Aaron WONG"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Sin Ming WONG"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Richie ANTONY"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Aloysius Kai Liang MOK"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Amelyn Xin Yi CHEOH"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Esther Shu Xian YEO"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Evelyn Zhengyang XIAO"
+            }
+        ],
+        "india2": [{
+                "department": "Institutional Banking Group",
+                "name": "Preethi Chada"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Khathi Jatul Kubra Sheik"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Ankit Goud Bazar"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Pravalika Bottu"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Akash Varada"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Sathvika Madipally"
+            },
+            {
+                "department": "&nbsp;",
+                "name": "&nbsp;",
+                "spacer": true
+            },
+            {
+                "department": "&nbsp;",
+                "name": "&nbsp;",
+                "spacer": true
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Mounika Bobbili"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Shubham Sharma"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Lohitha Gattu"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Pushpak Ganagoni"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Thejaswinie Nooka"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Jafar Mohammad"
+            },
+            {
+                "department": "Group Strategy, Transformation, Analytics and Research",
+                "name": "Prasannaw Maddipati"
+            },
+            {
+                "department": "Central Operations",
+                "name": "Swarnalatha Korupolu"
+            }
+        ],
+        "tw": [{
+                "department": "Group Human Resources",
+                "name": "Sylvia Ssu Wei CHEN"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Serena Yu Jen TANG"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Howard Chun Hao LEE"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Hank Chih Hung HOU"
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Rachael Chi Wen FANG"
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Ophelia I Wei YANG"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Lynn Jui Ling CHEN"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Vincent Pei Hsien HUANG"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Charlie Ming Lung SHIH"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Ivy Chao Hsuan HUANG"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Hydra Shu CHANG"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Johnson Tsung En HUANG"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Joe Zong Yi LIN"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "May Chiu Yi HUNG"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Eddie Chun Yeh HUANG"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Jerry CHO"
+            }
+        ],
+        "ch": [{
+                "department": "Consumer Banking Group",
+                "name": "Andrew Chuan Wei BOK"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Janice Jie XU"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Xin LU"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Selina Li Yuan CHEN"
+            },
+            {
+                "department": "Technology & Operations Group",
+                "name": "Mata JIANG"
+            },
+            {
+                "department": "Technology & Operations Group",
+                "name": "Safari San Feng GE"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Zhi Qi GUO"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Carol Li Hong ZHANG "
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Josh Jin Hua SHEN "
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Sherry Lan SHI "
+            },
+            {
+                "department": "Group Finance",
+                "name": "Vickie Lei ZHAO"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Shirley Yan Lin SHI "
+            },
+            {
+                "department": "Treasury & Markets",
+                "name": "Karen Wen Juan ZENG"
+            },
+            {
+                "department": "Treasury & Markets",
+                "name": "Emma Bin YANG"
+            },
+            {
+                "department": "Central Operations",
+                "name": "Grace Wan ZHANG "
+            },
+            {
+                "department": "Central Operations",
+                "name": "Shiki Zhi Quan ZHOU"
+            }
+        ],
+        "hk": [{
+                "department": "Group Human Resources",
+                "name": "Alice Yee Nin LAM"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Peggy Pui Ki CHEUNG"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Chui Fong LEE"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Jackson King Man WONG"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Eddy Chun Yin CHEUNG"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Cindy Sze Man CHEUNG"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Johnny Chon I YIU"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Barbara Kei Yue CHAN"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Ricky Yam Kwan LI"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Christopher Clement HO"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Edward Hon Fung WONG"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Tommy Tsz Chun CHONG"
+            },
+            {
+                "department": "Capital Markets",
+                "name": "Hanna Jia Wen LIN"
+            },
+            {
+                "department": "Capital Markets",
+                "name": "Christine Wing Yin WONG"
+            },
+            {
+                "department": "Group Strategy, Transformation, Analytics and Research",
+                "name": "Tony Ho Tak LING"
+            },
+            {
+                "department": "Group Strategy, Transformation, Analytics and Research",
+                "name": "Sandie Wing Sum NG"
+            }
+        ],
+        "india": [{
+                "department": "Consumer Banking Group",
+                "name": "Sriram Palaniappan K"
+            },
+            {
+                "department": "Consumer Banking Group",
+                "name": "Talari Naveen"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Vatsal LAKHANI"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Neha BATHWAL"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Sushruth Yelchur"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Seema NAIK"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Darshil SHAH"
+            },
+            {
+                "department": "Group Legal, Compliance & Secretariat",
+                "name": "Megha MEHTA"
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "RV PRASAD"
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Priya R"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Chetna Singla"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Pratik KALASARIYA"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Meenakshi Fartiyal"
+            },
+            {
+                "department": "Risk Management Group",
+                "name": "Sudha K.P"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Dubey Ankit Manoj"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Manuja SAMANT"
+            }
+        ],
+        "indo": [{
+                "department": "Group Human Resources",
+                "name": "Jap Michael CHANDRA"
+            },
+            {
+                "department": "Group Human Resources",
+                "name": "Yunita NUGRAHENI"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Claudia Jessica Iskandar"
+            },
+            {
+                "department": "Group Audit",
+                "name": "Brian Edward"
+            },
+            {
+                "department": "GSTAR",
+                "name": "Juliana SANTOSO"
+            },
+            {
+                "department": "GSTAR",
+                "name": "Niki Fadhliyah"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Veronika"
+            },
+            {
+                "department": "Institutional Banking Group",
+                "name": "Kurnia Kusuma Dewi TOBING"
+            },
+            {
+                "department": "&nbsp;",
+                "name": "&nbsp;",
+                "spacer": true
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Ignatia Heidi Yota"
+            },
+            {
+                "department": "Group Strategic Marketing & Communications",
+                "name": "Retnadi"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Rianthy Pratiwi Prijatna"
+            },
+            {
+                "department": "Group Finance",
+                "name": "Pribadi WIBOWO"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Rahadian Adinegoro"
+            },
+            {
+                "department": "Technology & Operations",
+                "name": "Putu ARTHA"
+            },
+            {
+                "department": "Treasury & Markets",
+                "name": "Kristi F I TUTUHATUNEWA"
+            },
+            {
+                "department": "Treasury & Markets",
+                "name": "Ferry Febrian NAZIR"
+            },
+            {
+                "department": "&nbsp;",
+                "name": "&nbsp;",
+                "spacer": true
+            }
+        ]
+    }
+}

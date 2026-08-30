@@ -1,0 +1,265 @@
+{
+    "sg": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Capital Markets",
+                "results": ["Yasmin MOHAMMAD HAYAT", "Claudia Yu Han TA"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Consumer Banking Group",
+                "results": ["Aloysius Kai Liang MOK", "Amelyn Xin Yi CHEOH"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Risk Management Group",
+                "results": ["Mary Mee Lin HO", "Clement Kok Cheng PUAH"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Group Audit",
+                "results": ["Bojun ZHANG", "Leh Jin Aaron WONG"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "Group Human Resources",
+                "results": ["HONG Jingting", "Sok Fong TAY"]
+            },
+            {
+                "team_name": "Group Finance",
+                "results": ["Mike Yan ZHANG", "Fiona Lay Mui LEE"]
+            },
+            {
+                "team_name": "Institutional Banking Group",
+                "results": ["Sin Ming WONG", "Richie ANTONY"]
+            },
+            {
+                "team_name": "Group Legal, Compliance & Secretariat",
+                "results": ["Esther Shu Xian YEO", "Evelyn Zhengyang XIAO"]
+            }
+        ]
+    },
+    "cn": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Group Legal, Compliance & Secretariat",
+                "results": ["Zhi Qi GUO", "Carol Li Hong ZHANG"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Central Operations",
+                "results": ["Shiki Zhi Quan ZHOU", "Grace Wan ZHANG"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Treasury & Markets",
+                "results": ["Karen Wen Juan ZENG", "Emma Bin YANG"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Institutional Banking Group",
+                "results": ["Selina Li Yuan CHEN", "Xin LU"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "Group Finance",
+                "results": ["Shirley Yan Lin SHI", "Vickie Lei ZHAO"]
+            },
+            {
+                "team_name": "Consumer Banking Group",
+                "results": ["Andrew Chuan Wei BOK", "Janice Jie XU"]
+            },
+            {
+                "team_name": "Group Strategic Marketing & Communications",
+                "results": ["Sherry Lan SHI", "Josh Jin Hua SHEN "]
+            },
+            {
+                "team_name": "Technology & Operations",
+                "results": ["Mata Jie JIANG", "Safari San Feng GE"]
+            }
+        ]
+    },
+    "hk": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Group Human Resources",
+                "results": ["Alice Yee Nin LAM", "Peggy Pui Ki CHEUNG"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Group Legal, Compliance & Secretariat",
+                "results": ["Johnny Chon I YIU", "Barbara Kei Yue CHAN"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Group Finance",
+                "results": ["Chui Fong LEE", "Jackson King Man WONG"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Group Audit",
+                "results": ["Ricky Yam Kwan LI", "Christopher Clement HO"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "Risk Management Group",
+                "results": ["Eddy Chun Yin CHEUNG", "Cindy Sze Man CHEUNG"]
+            },
+            {
+                "team_name": "Group Strategy, Transformation, Analytics and Research",
+                "results": ["Tony Ho Tak LING", "Sandie Wing Sum NG"]
+            },
+            {
+                "team_name": "Capital Markets",
+                "results": ["Hanna Jia Wen LIN", "Christine Wing Yin WONG"]
+            },
+            {
+                "team_name": "Technology & Operations",
+                "results": ["Edward Hon Fung WONG", "Tommy Tsz Chun CHONG"]
+            }
+        ]
+    },
+    "india": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Group Strategic Marketing & Communications",
+                "results": ["Priya R", "RV PRASAD"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Group Human Resources",
+                "results": ["Sushruth Yelchur", "Seema NAIK"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Group Finance",
+                "results": ["Vatsal LAKHANI", "Neha BATHWAL"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Group Legal, Compliance & Secretariat",
+                "results": ["Darshil SHAH", "Megha MEHTA"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "Institutional Banking Group",
+                "results": ["Pratik KALASARIYA", "Chetna Singla"]
+            },
+            {
+                "team_name": "Risk Management Group",
+                "results": ["Sudha K.P", "Meenakshi Fartiyal"]
+            },
+            {
+                "team_name": "Consumer Banking Group",
+                "results": ["Sriram Palaniappan K", "Talari Naveen"]
+            },
+            {
+                "team_name": "Technology & Operations",
+                "results": ["Dubey Ankit Manoj", "Manuja SAMANT"]
+            }
+        ]
+    },
+    "india2": {
+
+    },
+    "tw": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Group Legal, Compliance & Secretariat",
+                "results": ["Charlie Ming Lung SHIH", "Ivy Chao Hsuan HUANG"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Consumer Banking Group",
+                "results": ["Eddie Chun Yeh HUANG", "Jerry CHO"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Group Strategic Marketing & Communications",
+                "results": ["Ophelia I Wei YANG", "Charlotte CHU"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Group Human Resources",
+                "results": ["Sylvia Ssu Wei CHEN", "Serena Yu Jen TANG"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "Group Audit",
+                "results": ["Howard Chun Hao LEE", "Hank Chih Hung HOU"]
+            },
+            {
+                "team_name": "Group Finance",
+                "results": ["Lynn Jui Ling CHEN", "Vincent Pei Hsien HUANG"]
+            },
+            {
+                "team_name": "Technology & Operations",
+                "results": ["Hydra Shu CHANG", "Johnson Tsung En HUANG"]
+            },
+            {
+                "team_name": "Risk Management Group",
+                "results": ["Joe Zong Yi LIN", "May Chiu Yi HUNG"]
+            }
+        ]
+    },
+    "indo": {
+        "final": [{
+                "prize": "Champion",
+                "prize_item": "Nespresso Machine & 500 iTQ points each",
+                "team_name": "Group Audit",
+                "results": ["Claudia Jessica Iskandar", "Brian Edward"]
+            },
+            {
+                "prize": "1<sup>st</sup> Runner-Up",
+                "prize_item": "2,500 iTQ points each",
+                "team_name": "Institutional Banking Group",
+                "results": ["Veronika", "Kurnia Kusuma Dewi TOBING"]
+            },
+            {
+                "prize": "2<sup>nd</sup> Runner-Up",
+                "prize_item": "1,800 iTQ points each",
+                "team_name": "Group Human Resources",
+                "results": ["Jap Michael CHANDRA", "Yunita NUGRAHENI"]
+            },
+            {
+                "prize": "3<sup>rd</sup> Runner-Up",
+                "prize_item": "1,200 iTQ points each",
+                "team_name": "Group Strategic Marketing & Communications",
+                "results": ["Ignatia Heidi Yota", "Retnadi"]
+            }
+        ],
+        "semi_final": [{
+                "team_name": "GSTAR",
+                "results": ["Juliana SANTOSO", "Niki Fadhliyah"]
+            },
+            {
+                "team_name": "Group Finance",
+                "results": ["Rianthy Pratiwi Prijatna", "Pribadi WIBOWO"]
+            },
+            {
+                "team_name": "Technology & Operations",
+                "results": ["Rahadian Adinegoro", "Putu ARTHA"]
+            }
+        ]
+    }
+}

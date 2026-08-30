@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Yolande Yuet Yiu FONG";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:y
+	olandefong@dbs.com
+ATTENDEE;CN="Elsie Yim Hung WONG";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:els
+	iewong@dbs.com
+ATTENDEE;CN="Alex Chan";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Alex_CS_Chan@
+	manulife.com
+ATTENDEE;CN="Ron Tsang";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Ron_CM_Tsang@
+	manulife.com
+ATTENDEE;CN="Candy Chan";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Ka_Li_Chan@m
+	anulife.com
+ATTENDEE;CN="Catherine Tsang";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:catheri
+	ne_yy_tsang@manulife.com
+ATTENDEE;CN="Edward Siu Fung HUI";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:edw
+	ardhui@dbs.com
+ATTENDEE;CN="Kelis Chong";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Kelis_PC_Ch
+	ong@manulife.com
+ATTENDEE;CN="Simon Lam";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Simon_HY_Lam@
+	manulife.com
+ATTENDEE;CN="Joanne Kam Man LUI";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:joan
+	nelui@dbs.com
+ATTENDEE;CN="Edith Wan SUEN";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:edithsue
+	n@dbs.com
+ATTENDEE;CN="Janice Hoi Yan LIU";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jani
+	cehoiyanliu@dbs.com
+CLASS:PUBLIC
+CREATED:20230707T092937Z
+DESCRIPTION:Topic\n\n:\n\nRetirement Planning – Never too early Never too
+	 late (Hong Kong)\n\nSynopsis\n\n:\n\nEveryone wishes a retirement with qu
+	ality of life or even early retired! When & How should i do for planning m
+	y excellent retirement life? What should I do now?\n\nThis webinar will sh
+	are you what you have to take into consideration for your retirement plann
+	ing\, and also some products/practices about retirement tools in HK market
+	 along with the available solutions/products in DBS with preferential excl
+	usive staff offer!\n\nSpeakers\n\n:\n\nDBS Speaker:\n\nEdward Hui\, Vice P
+	resident\n\nBancassurance Team\n\n \n\nManulife Speakers: \n\nRon Tsang\, 
+	Senior Manager\n\nManulife Business Academy\nHK Bancassurance\n\nCandy Cha
+	n\, Senior Manager\n\nPartnership Distribution\n\n \n\n\n\n_______________
+	__________________________________________________________________________
+	_____________________\n\nOption 1 – If you are joining via a laptop or m
+	obile device through the application:\n1. Click on this hyperlink: Webex M
+	eeting Link <https://dbs.webex.com/dbs/j.php?MTID=mf40c3ee18038c002d3224d1
+	c62fd473d> \n2. Use a headset for a better experience\n*Visit here <https:
+	//dbs1bank.sharepoint.com/sites/sgFOW/SitePages/fow/digital-tools.aspx?mar
+	ket=Singapore&category=Communication> to find out more about Webex \n\nMee
+	ting password: dyDk9nYbt54 (only if asked)\n\nOption 2 – If you are join
+	ing via Cisco VC Equipment:\nUse the Touch Panel to dial in\n1. Press the 
+	"Call" icon\n2. Dial 25187153931@dbs.webex.com <mailto:25187153931@dbs.web
+	ex.com>  into the search bar and press "Call" \n3. If you are the host\, e
+	nter your 6-digit one-time Host KEY. Click here to see how to retrieve you
+	r Host KEY <https://dbs1bank.sharepoint.com/sites/sgFOW/Shared%20Documents
+	/Forms/AllItems.aspx?viewpath=%2Fsites%2FsgFOW%2FShared%20Documents&id=%2F
+	sites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx%2FUser%20Guide%5FHost%
+	5FPIN%2Epdf&viewid=1b23a731%2D8c47%2D42f0%2Dbd84%2Db790e52deffa&parent=%2F
+	sites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx> \n\nOption 3 – If y
+	ou are joining via a laptop through the Web browser: \nFor external partie
+	s who do not wish to download the application \n1. Click on this hyperlink
+	: Webex Meeting Link <https://dbs.webex.com/dbs/j.php?MTID=mf40c3ee18038c0
+	02d3224d1c62fd473d> \n2. Click on ‘Cancel button’ if a popup ‘Open W
+	ebex?' appears \n3. Click on ‘Join from your browser’ \n4. Enter your 
+	Name and Email Address and join the meeting \n\nClick here <https://help.w
+	ebex.com/en-us/article/nrbgeodb/Join-a-Webex-Meeting#id_135013> to find ou
+	t more\n\nOption 4 – If you are dialling in via phone (audio only):\n*To
+	ll charges / Long distance charges may apply.\nNote if you are the host\, 
+	please use either Option 1 or 2 to start the meeting.\nSingapore +65-3157-
+	6442 <tel:%2B65-3157-6442\,\,1%23\,%23> \nHong Kong +852-3018-6828 <tel:%2
+	B852-3018-6828\,\,1%23\,%23> \nIndia\, Mumbai +91-22-6480-0114 <tel:%2B91-
+	22-6480-0114\,\,1%23\,%23> \nIndia\, Hyderabad +91-40-6480-0114 <tel:%2B91
+	-40-6480-0114\,\,1%23\,%23> \nTaiwan +886-2-5594-0839 <tel:%2B886-2-5594-0
+	839\,\,1%23\,%23> \n\nMeeting Number: 2518 715 3931#\nGlobal call-in numbe
+	rs <https://dbs.webex.com/dbs/globalcallin.php> \n\n\nUseful Links:\nNeed 
+	help? Contact Webex Support Team! <mailto:webexsupport@dbs.com> \n\n \n\n
+DTEND;TZID="China Standard Time":20230721T125000
+DTSTAMP:20230707T075053Z
+DTSTART;TZID="China Standard Time":20230721T120000
+LAST-MODIFIED:20230707T092937Z
+LOCATION:Webex
+ORGANIZER;CN="Shirley Sui Ying FUNG":mailto:shirleyfung@dbs.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Retirement Planning – Never too early Never too la
+	te (Cantonese)
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000060AE434260A3D901000000000000000
+	010000000E580E01F36D2C343A3E42FCBB56A5B68
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1
+	 1 1 1 1\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4
+	 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 
+	4 2 2 3\;}\n@font-face\n	{font-family:"\\@DengXian"\;\n	panose-1:2 1 6 0 3
+	 1 1 1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.M
+	soNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,san
+	s-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyperlink\n	{m
+	so-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\ns
+	pan.MsoSmartlink\n	{mso-style-priority:99\;\n	color:blue\;\n	background:#F
+	3F2F1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-typ
+	e:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowt
+	ext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\
+	;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1
+	.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte 
+	mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![en
+	dif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:
+	ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lan
+	g=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div c
+	lass=WordSection1><table class=MsoNormalTable border=0 cellspacing=0 cellp
+	adding=0 width="100%" style='width:100.0%\;border-collapse:collapse'><tr s
+	tyle='height:1.0pt'><td width="10%" style='width:10.02%\;border:none\;bord
+	er-bottom:solid #E7E6E6 1.0pt\;padding:2.15pt 5.75pt 2.15pt 5.75pt\;height
+	:1.0pt'><p class=MsoNormal><b><span style='font-size:10.0pt\;font-family:"
+	Arial"\,sans-serif'>Topic<o:p></o:p></span></b></p></td><td width="1%" sty
+	le='width:1.68%\;border:none\;border-bottom:solid #E7E6E6 1.0pt\;padding:2
+	.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p class=MsoNormal><span style='
+	font-size:10.0pt\;font-family:"Arial"\,sans-serif'>:<o:p></o:p></span></p>
+	</td><td width="88%" style='width:88.3%\;border:none\;border-bottom:solid 
+	#E7E6E6 1.0pt\;padding:2.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p class
+	=MsoNormal><span style='font-size:10.0pt\;font-family:"Arial"\,sans-serif\
+	;color:black\;background:white'>Retirement Planning – Never too early Ne
+	ver too late (Hong Kong)</span><span style='font-size:10.0pt\;font-family:
+	"Arial"\,sans-serif'><o:p></o:p></span></p></td></tr><tr style='height:1.0
+	pt'><td width="10%" style='width:10.02%\;border:none\;border-bottom:solid 
+	#E7E6E6 1.0pt\;padding:2.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p class
+	=MsoNormal><b><span style='font-size:10.0pt\;font-family:"Arial"\,sans-ser
+	if'>Synopsis<o:p></o:p></span></b></p></td><td width="1%" style='width:1.6
+	8%\;border:none\;border-bottom:solid #E7E6E6 1.0pt\;padding:2.15pt 5.75pt 
+	2.15pt 5.75pt\;height:1.0pt'><p class=MsoNormal><span style='font-size:10.
+	0pt\;font-family:"Arial"\,sans-serif'>:<o:p></o:p></span></p></td><td widt
+	h="88%" style='width:88.3%\;border:none\;border-bottom:solid #E7E6E6 1.0pt
+	\;padding:2.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p style='margin:0in'
+	>Everyone wishes a retirement with quality of life or even early retired! 
+	When &amp\; How should i do for planning my excellent retirement life? Wha
+	t should I do now?<o:p></o:p></p><p style='margin:0in'>This webinar will s
+	hare you what you have to take into consideration for your retirement plan
+	ning\, and also some products/practices about retirement tools in HK marke
+	t along with the available solutions/products in DBS with preferential exc
+	lusive staff offer!<o:p></o:p></p></td></tr><tr style='height:1.0pt'><td w
+	idth="10%" style='width:10.02%\;border:none\;border-bottom:solid #E7E6E6 1
+	.0pt\;padding:2.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p class=MsoNorma
+	l><b><span style='font-size:10.0pt\;font-family:"Arial"\,sans-serif'>Speak
+	ers<o:p></o:p></span></b></p></td><td width="1%" style='width:1.68%\;borde
+	r:none\;border-bottom:solid #E7E6E6 1.0pt\;padding:2.15pt 5.75pt 2.15pt 5.
+	75pt\;height:1.0pt'><p class=MsoNormal><span style='font-size:10.0pt\;font
+	-family:"Arial"\,sans-serif'>:<o:p></o:p></span></p></td><td width="88%" s
+	tyle='width:88.3%\;border:none\;border-bottom:solid #E7E6E6 1.0pt\;padding
+	:2.15pt 5.75pt 2.15pt 5.75pt\;height:1.0pt'><p class=MsoNormal><span style
+	='mso-fareast-language:ZH-TW'>DBS Speaker:<o:p></o:p></span></p><p class=M
+	soNormal><span style='mso-fareast-language:ZH-TW'>Edward Hui\, Vice Presid
+	ent<o:p></o:p></span></p><p class=MsoNormal><span style='color:#212121'>Ba
+	ncassurance Team<o:p></o:p></span></p><p class=MsoNormal><span style='mso-
+	fareast-language:ZH-TW'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><s
+	pan style='mso-fareast-language:ZH-TW'>Manulife Speakers: <o:p></o:p></spa
+	n></p><p class=MsoNormal><span style='mso-fareast-language:ZH-TW'>Ron Tsan
+	g\, Senior Manager<o:p></o:p></span></p><p class=MsoNormal style='margin-b
+	ottom:12.0pt'><span style='color:#212121'>Manulife Business Academy<br>HK 
+	Bancassurance</span><o:p></o:p></p><p class=MsoNormal>Candy Chan\, Senior 
+	Manager<o:p></o:p></p><p class=MsoNormal>Partnership Distribution<o:p></o:
+	p></p></td></tr></table><p class=MsoNormal><span style='mso-fareast-langua
+	ge:ZH-CN'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><br><br><span st
+	yle='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#C00000'>
+	_<a name=WBXB3093>________________________________________________________
+	_____________________________________________________</a></span><span styl
+	e='mso-bookmark:WBXB3093'><br><br></span><span style='mso-bookmark:WBXB309
+	3'><span style='font-size:13.5pt\;font-family:"Segoe UI"\,sans-serif\;colo
+	r:black'>Option 1 – If you are joining via a laptop or mobile device thr
+	ough the application:</span><br></span><span style='mso-bookmark:WBXB3093'
+	><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:
+	gray'>1. Click on this hyperlink: </span></span><a href="https://dbs.webex
+	.com/dbs/j.php?MTID=mf40c3ee18038c002d3224d1c62fd473d"><span style='mso-bo
+	okmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sa
+	ns-serif\;color:#00AFF9'>Webex Meeting Link</span></span><span style='mso-
+	bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,
+	sans-serif'> </span></span><span style='mso-bookmark:WBXB3093'></span></a>
+	<span style='mso-bookmark:WBXB3093'><br></span><span style='mso-bookmark:W
+	BXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif
+	\;color:gray'>2. Use a headset for a better experience</span><br></span><s
+	pan style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-fami
+	ly:"Segoe UI"\,sans-serif\;color:gray'>*Visit </span></span><a href="https
+	://dbs1bank.sharepoint.com/sites/sgFOW/SitePages/fow/digital-tools.aspx?ma
+	rket=Singapore&amp\;category=Communication"><span style='mso-bookmark:WBXB
+	3093'>here </span><span style='mso-bookmark:WBXB3093'></span></a><span sty
+	le='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Seg
+	oe UI"\,sans-serif\;color:gray'>to find out more about Webex </span><br></
+	span><span style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;fo
+	nt-family:"Segoe UI"\,sans-serif\;color:gray'><br>Meeting password: dyDk9n
+	Ybt54 (only if asked)</span><br><br></span><span style='mso-bookmark:WBXB3
+	093'><span style='font-size:13.5pt\;font-family:"Segoe UI"\,sans-serif\;co
+	lor:black'>Option 2 – If you are joining via Cisco VC Equipment:</span><
+	br></span><span style='mso-bookmark:WBXB3093'><span style='font-size:10.0p
+	t\;font-family:"Segoe UI"\,sans-serif\;color:gray'>Use the Touch Panel to 
+	dial in</span><br></span><span style='mso-bookmark:WBXB3093'><span style='
+	font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'>1. Press
+	 the &quot\;Call&quot\; icon</span><br></span><span style='mso-bookmark:WB
+	XB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\
+	;color:gray'>2. Dial </span></span><a href="mailto:25187153931@dbs.webex.c
+	om"><span style='mso-bookmark:WBXB3093'><b><span style='font-size:10.0pt\;
+	font-family:"Segoe UI"\,sans-serif'>25187153931@dbs.webex.com</span></b></
+	span><span style='mso-bookmark:WBXB3093'></span></a><span style='mso-bookm
+	ark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-
+	serif\;color:gray'> into the search bar and press &quot\;Call&quot\; </spa
+	n><br></span><span style='mso-bookmark:WBXB3093'><span style='font-size:10
+	.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'>3. If you are the ho
+	st\, enter your 6-digit one-time Host KEY. Click here to see how to </span
+	></span><a href="https://dbs1bank.sharepoint.com/sites/sgFOW/Shared%20Docu
+	ments/Forms/AllItems.aspx?viewpath=%2Fsites%2FsgFOW%2FShared%20Documents&a
+	mp\;id=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx%2FUser%20Gui
+	de%5FHost%5FPIN%2Epdf&amp\;viewid=1b23a731%2D8c47%2D42f0%2Dbd84%2Db790e52d
+	effa&amp\;parent=%2Fsites%2FsgFOW%2FShared%20Documents%2FGuides%2FWebEx"><
+	span style='mso-bookmark:WBXB3093'><span class=MsoSmartlink><span style='f
+	ont-size:10.0pt\;font-family:"Segoe UI"\,sans-serif'>retrieve your Host KE
+	Y </span></span></span><span style='mso-bookmark:WBXB3093'></span></a><spa
+	n style='mso-bookmark:WBXB3093'><br><br></span><span style='mso-bookmark:W
+	BXB3093'><span style='font-size:13.5pt\;font-family:"Segoe UI"\,sans-serif
+	\;color:black'>Option 3 – If you are joining via a laptop through the We
+	b browser: </span></span><span style='mso-bookmark:WBXB3093'><span style='
+	font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'><br>For 
+	external parties who do not wish to download the application <br>1. Click 
+	on this hyperlink: </span></span><a href="https://dbs.webex.com/dbs/j.php?
+	MTID=mf40c3ee18038c002d3224d1c62fd473d"><span style='mso-bookmark:WBXB3093
+	'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color
+	:#00AFF9'>Webex Meeting Link</span></span><span style='mso-bookmark:WBXB30
+	93'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif'> </
+	span></span><span style='mso-bookmark:WBXB3093'></span></a><span style='ms
+	o-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"
+	\,sans-serif\;color:gray'><br>2. Click on ‘Cancel button’ if a popup 
+	‘Open Webex?' appears <br>3. Click on ‘Join from your browser’ <br>4
+	. Enter your Name and Email Address and join the meeting <br><br>Click </s
+	pan></span><a href="https://help.webex.com/en-us/article/nrbgeodb/Join-a-W
+	ebex-Meeting#id_135013"><span style='mso-bookmark:WBXB3093'><span style='f
+	ont-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#00AFF9'>here</
+	span></span><span style='mso-bookmark:WBXB3093'><span style='font-size:10.
+	0pt\;font-family:"Segoe UI"\,sans-serif'> </span></span><span style='mso-b
+	ookmark:WBXB3093'></span></a><span style='mso-bookmark:WBXB3093'><span sty
+	le='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'>to f
+	ind out more<br><br></span></span><span style='mso-bookmark:WBXB3093'><spa
+	n style='font-size:13.5pt\;font-family:"Segoe UI"\,sans-serif\;color:black
+	'>Option 4 – If you are dialling in via phone (audio only):</span></span
+	><span style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-f
+	amily:"Segoe UI"\,sans-serif\;color:gray'><br>*Toll charges / Long distanc
+	e charges may apply.<br>Note if you are the host\, please use either Optio
+	n 1 or 2 to start the meeting.<br>Singapore </span></span><a href="tel:%2B
+	65-3157-6442\,\,1%23\,%23"><span style='mso-bookmark:WBXB3093'><span style
+	='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#666666'>+65
+	-3157-6442</span></span><span style='mso-bookmark:WBXB3093'></span></a><sp
+	an style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:gray'><br>Hong Kong </span></span><a href=
+	"tel:%2B852-3018-6828\,\,1%23\,%23"><span style='mso-bookmark:WBXB3093'><s
+	pan style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#66
+	6666'>+852-3018-6828</span></span><span style='mso-bookmark:WBXB3093'></sp
+	an></a><span style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;
+	font-family:"Segoe UI"\,sans-serif\;color:gray'><br>India\, Mumbai </span>
+	</span><a href="tel:%2B91-22-6480-0114\,\,1%23\,%23"><span style='mso-book
+	mark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans
+	-serif\;color:#666666'>+91-22-6480-0114</span></span><span style='mso-book
+	mark:WBXB3093'></span></a><span style='mso-bookmark:WBXB3093'><span style=
+	'font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'><br>Ind
+	ia\, Hyderabad </span></span><a href="tel:%2B91-40-6480-0114\,\,1%23\,%23"
+	><span style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-f
+	amily:"Segoe UI"\,sans-serif\;color:#666666'>+91-40-6480-0114</span></span
+	><span style='mso-bookmark:WBXB3093'></span></a><span style='mso-bookmark:
+	WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-seri
+	f\;color:gray'><br>Taiwan </span></span><a href="tel:%2B886-2-5594-0839\,\
+	,1%23\,%23"><span style='mso-bookmark:WBXB3093'><span style='font-size:10.
+	0pt\;font-family:"Segoe UI"\,sans-serif\;color:#666666'>+886-2-5594-0839</
+	span></span><span style='mso-bookmark:WBXB3093'></span></a><span style='ms
+	o-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"
+	\,sans-serif\;color:gray'><br><br>Meeting Number: <b>2518 715 3931#</b><br
+	></span></span><a href="https://dbs.webex.com/dbs/globalcallin.php"><span 
+	style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"
+	Segoe UI"\,sans-serif\;color:#00AFF9'>Global call-in numbers</span></span>
+	<span style='mso-bookmark:WBXB3093'><span style='font-size:10.0pt\;font-fa
+	mily:"Segoe UI"\,sans-serif'> </span></span><span style='mso-bookmark:WBXB
+	3093'></span></a><span style='mso-bookmark:WBXB3093'><span style='font-siz
+	e:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'><br><br><br></sp
+	an></span><span style='mso-bookmark:WBXB3093'><b><span style='font-size:10
+	.0pt\;font-family:"Segoe UI"\,sans-serif\;color:black'>Useful Links:</span
+	></b></span><span style='mso-bookmark:WBXB3093'><span style='font-size:10.
+	0pt\;font-family:"Segoe UI"\,sans-serif\;color:gray'><br></span></span><a 
+	href="mailto:webexsupport@dbs.com"><span style='mso-bookmark:WBXB3093'><sp
+	an style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#00A
+	FF9'>Need help? Contact Webex Support Team!</span></span><span style='mso-
+	bookmark:WBXB3093'><span style='font-size:10.0pt\;font-family:"Segoe UI"\,
+	sans-serif'> </span></span><span style='mso-bookmark:WBXB3093'></span></a>
+	<span style='mso-bookmark:WBXB3093'></span><o:p></o:p></p><p class=MsoNorm
+	al><span style='mso-fareast-language:ZH-CN'><o:p>&nbsp\;</o:p></span></p><
+	/div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20230707T075053Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

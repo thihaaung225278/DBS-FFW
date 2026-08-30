@@ -1,0 +1,2427 @@
+{
+    "sg": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 7,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [],
+                "designation": [],
+                "moderator": ["Kwee Juan HAN"],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+
+
+            {
+                "CheckId": 8,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/Singapore/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+
+            {
+                "CheckId": 10,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/Singapore/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 11,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing",
+                "speaker": ["Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/Singapore/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 12,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to:<br><ul><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/Singapore/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 13,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": ["Joanne Foong Ming HOR"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br><br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/Singapore/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": ["Soumee DE"],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore "
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "CPF Schemes and Retirement Planning Strategies",
+                "speaker": ["Lorna Beng Choo TAN", "Joanne TAN"],
+                "designation": [
+                    "",
+                    "Director for Outreach and Partnership, CPFB"
+                ],
+                "moderator": [],
+                "content": "Hear from the experts on how CPF schemes work for your future and uncover tips and strategies to optimise your retirement plans.<br><ul><li> - Myths and misconceptions about CPF</li><li> - How can we rely on CPF schemes to better plan for our retirement?</li><li> - Strategies to grow your CPF funds, prepare for your retirement, and utilize CPF into your golden years.</li></ul>",
+                "icl_link": "public/iCal-invites/Singapore/20 Jul_11am_CPF Schemes and Retirement Planning Strategies.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_mu8ghuq1/98847"
+            },
+
+            {
+                "CheckId": 18,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": ["Lishia ERZA"],
+                "designation": ["CEO, ASYX"],
+                "moderator": [
+                    "Muhammad Levy ANINDITIO"
+                ],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/Singapore/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": ["Kwee Juan HAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li><li> - In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li> - Heavy reliance on personal savings and pension schemes for retirement – how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/Singapore/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+            {
+                "CheckId": 23,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness",
+                "speaker": ["Jung Kyun KIM "],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to 'live fulfilled' at DBS.",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 26,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 20,
+                "date": "2023-07-21",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Career Jam (SG) - Debunking Myths on Internal Mobility",
+                "speaker": ["Matthew Eng Chye LEE", "Elaine Leh Chin CHONG", "Chun Meng TEE", "Premshila Shilpan JOSHI", "Shivani SINGH"],
+                "designation": [],
+                "moderator": ["William Tanoto TAN"],
+                "content": "Planning on moving internally? Heard of urban myths around internal mobility? Join us as we hear from your colleagues who have done it, and managers who believe in it to debunk any misconceptions you may have.",
+                "icl_link": "public/iCal-invites/21 Jul_ 11am_Career Jam (SG) - Debunking Myths on Internal Mobility.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_fdt63lwm/98847"
+            },
+            {
+                "CheckId": 21,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+
+            {
+                "CheckId": 24,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": ["Him Chuan LIM"],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan As a busy executive, how do you stay resilient and get more done everyday? It’s Time to think inside the Box. Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/Singapore/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 22,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": ["Dr. Matthew TAN "],
+                "designation": ["Dr Tan Medical Center"],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 25,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": ["Mark Englehart EVANS"],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/Singapore/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+
+
+            {
+                "CheckId": 28,
+                "date": "2023-07-21",
+                "time_start": "12:00 PM",
+                "time_end": "12:50 PM",
+                "title": "Navigating healthcare costs: Shield plans, coverage and claims",
+                "speaker": ["Helen SHEN", "Shawn LEE"],
+                "designation": ["Singlife"],
+                "moderator": ["Desiree Pei Fern LOW"],
+                "content": "Come find out more about health care costs in Singapore<br><ul><li> - How do I know if I can claim from my shield plan? What are some of the common ones?</li><li> - What are some of the new cancer coverage changes and their impacts on policy holders?</li><li> - How are premiums of IPs going to change due the introduction of cancer drug list?</li></ul>",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_12pm_Navigating healthcare costs Shield plans coverage and claims.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2cz6cbme/98847"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 30,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": ["Susanna LAM", "Heidi CHEUNG"],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            },
+
+            {
+                "CheckId": 31,
+                "date": "2023-07-21",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Tai-chi",
+                "speaker": ["Jeremy Hsiao Chin SOO"],
+                "designation": [],
+                "moderator": [],
+                "content": "Tai Chi Yourself to Wellness with Jeremy <br>If you think that Tai Chi is meant only for the elderly, think again! Tai Chi is a form of low impact exercise incorporates slow, gentle movements, meditative state of mind and controlled breathing. It confers many benefits like improved balance, core strength, pain prevention and relief, and is proven to help manage chronic diseases. It is suitable for people of all age groups and it’s never too early to start! Come learn the 101s of Tai Chi from Master Jeremy – who is a passionate advocate of the ancient martial art founded in 1670!",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_3pm_Tai-chi.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 32,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Running",
+                "speaker": ["Karen Foong Yin NGUI"],
+                "designation": [],
+                "moderator": [],
+                "content": "Are you thinking of picking up running to improve your fitness or health? Are you unsure about how to get started? Join Karen as she shares her story of how she picked up running and how she worked it into her lifestyle.<br><br>After that, put on your running shoes and join your colleagues for an easy run around Marina Bay! You will also be joined by some of our SGMC members. ",
+                "icl_link": "public/iCal-invites/Running.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 33,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Zumba",
+                "speaker": ["Charlotte MARIE", "Audrey Wai Lan KOH"],
+                "designation": [],
+                "moderator": [],
+                "content": "Zumba with Charlotte and Gelek Your Stress Away Do you prefer to have fun and music while you exercise? What better way to have a cardiovascular workout to the swing of great tunes and great company. Join this Zumba workout to enjoy and experience basic Zumba routines. Exercise doesn’t need to be dull or a physical torture that you dread! Fun and fitness can go hand in hand!",
+                "icl_link": "public/iCal-invites/Singapore/21 Jul_4pm_Zumba.ics",
+                "join_link": "",
+                "video_link": ""
+            }
+        ]
+    },
+    "cn": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 1,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [],
+                "designation": [],
+                "moderator": ["Kwee Juan HAN"],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+            {
+                "CheckId": 2,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/China/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/China/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 5,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing",
+                "speaker": ["Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/China/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to:<br><ul><li> 1. Prioritise and enhance everyday decision-making</li><li> 2. Uncover the secrets to effective workload management</li><li> 3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/China/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": ["Joanne Foong Ming HOR"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br> <br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/China/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": ["Soumee DE"],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+
+            {
+                "CheckId": 10,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": ["Lishia ERZA"],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/China/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 11,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": ["Kwee Juan HAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li><li> - In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li> - Heavy reliance on personal savings and pension schemes for retirement – how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/China/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+
+            {
+                "CheckId": 13,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": ["Him Chuan LIM"],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan <br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. <br> Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/China/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 14,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": ["Dr. Matthew TAN"],
+                "designation": ["Dr Tan Medical Center"],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 17,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": ["Mark Englehart EVANS"],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/China/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+            {
+                "CheckId": 15,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness",
+                "speaker": ["Jung Kyun KIM"],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/China/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 18,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/China/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 21,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": ["Susanna LAM", "Heidi CHEUNG"],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/China/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            },
+            {
+                "CheckId": 12,
+                "date": "2023-07-21",
+                "time_start": "3:00 PM",
+                "time_end": "4:00 PM",
+                "title": "Career Jam (CN)",
+                "speaker": ["Qiao GAO", "Thomas ZHU", "Fanny XIA"],
+                "designation": [],
+                "moderator": ["Stella MA"],
+                "content": "Do you have questions on internal mobility? Join us as we hear from employees who have done internal mobility, hiring managers and releasing managers to debunk some of the myths you may have!",
+                "icl_link": "public/iCal-invites/China/21Jul_3pm_Career Jam (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+
+            {
+                "CheckId": 23,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Zumba",
+                "speaker": ["Shine WU"],
+                "designation": [],
+                "moderator": [],
+                "content": "Zumba Session in physical capacity at 17F 'The Bund'",
+                "icl_link": "public/iCal-invites/China/21 Jul_4pm_Zumba (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+
+
+            {
+                "CheckId": 26,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Riding",
+                "speaker": ["Qiao GAO"],
+                "designation": [],
+                "moderator": [],
+                "content": "Riding Session in physical capacity at 17F 'Xintiandi'",
+                "icl_link": "public/iCal-invites/China/21 Jul_4pm_Riding (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 25,
+                "date": "2023-07-21",
+                "time_start": "5:00 PM",
+                "time_end": "6:00 PM",
+                "title": "Running",
+                "speaker": ["Mollie MO"],
+                "designation": [],
+                "moderator": [],
+                "content": "Running around Riverside Avenue",
+                "icl_link": "public/iCal-invites/China/21 Jul_5pm_Running (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 22,
+                "date": "2023-07-21",
+                "time_start": "5:00 PM",
+                "time_end": "6:00 PM",
+                "title": "Karate",
+                "speaker": ["Lillian MAO"],
+                "designation": [],
+                "moderator": [],
+                "content": "Karate Session in physical capacity at 17F 'Xintiandi'",
+                "icl_link": "public/iCal-invites/China/21 Jul_5pm_Karate (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 27,
+                "date": "2023-07-21",
+                "time_start": "5:00 PM",
+                "time_end": "6:00 PM",
+                "title": "Yoga",
+                "speaker": ["Lillian MAO"],
+                "designation": [],
+                "moderator": [],
+                "content": "Yoga Session in physical capacity at 17F 'The Bund'",
+                "icl_link": "public/iCal-invites/China/21 Jul_5pm_YOGA (CN).ics",
+                "join_link": "",
+                "video_link": ""
+            }
+        ]
+    },
+    "hk": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 1,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [],
+                "designation": [],
+                "moderator": ["Kwee Juan HAN"],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+            {
+                "CheckId": 2,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "moderator_position": [],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/Hong Kong/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/Hong Kong/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 5,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing ",
+                "speaker": ["Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/Hong Kong/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 24,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to: <br> <ul><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/Hong Kong/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": ["Joanne Foong Ming HOR"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br><br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/Hong Kong/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "6:00 PM",
+                "title": "Yoga Stretch at your Desk",
+                "speaker": ["Gloria NGAN", "Jeremy KOK"],
+                "designation": [],
+                "moderator": [],
+                "content": "Stretch out, release soreness and refocus your mind at your desk.  Let's take a break and rejuvenate ourselves together!",
+                "icl_link": "public/iCal-invites/Hong Kong/U_19Jul_5pm_Yoga Stretch at Your Desk.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 9,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": ["Soumee DE"],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+            {
+                "CheckId": 10,
+                "date": "2023-07-20",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Smart Investment for Wealth Accumulation in DBS (Cantonese)",
+                "speaker": ["Winson YAU"],
+                "designation": [],
+                "moderator": [],
+                "content": "This webinar aims to share some investment concepts, especially importance of diversification. It will cover hints on selecting funds, exclusive staff offers, portfolio building skills, and how technology can improve the investment journey. The program will also explore ESG investing and yield-enhancing products, particularly relevant after the Fed rate hike. Attendees will gain valuable insights to make informed investment decisions.",
+                "icl_link": "public/iCal-invites/Hong Kong/20 July_11am Smart Investment for Wealth Accumulation in DBS.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+
+            {
+                "CheckId": 12,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": ["Lishia ERZA"],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/Hong Kong/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 13,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": ["Kwee Juan HAN "],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li><li> - In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li> - Heavy reliance on personal savings and pension schemes for retirement – how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/Hong Kong/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+            {
+                "CheckId": 17,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness ",
+                "speaker": ["Jung Kyun KIM"],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/Hong Kong/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+
+            {
+                "CheckId": 18,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": ["Him Chuan LIM"],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan <br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. <br> Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/Hong Kong/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": ["Dr. Matthew TAN "],
+                "designation": ["Dr Tan Medical Center"],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": ["Mark Englehart EVANS"],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/Hong Kong/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+
+            {
+                "CheckId": 20,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "6:00 PM",
+                "title": "Zumba X Bollywood",
+                "speaker": ["George LU", "Ajay Surendra MATHUR", "Betty LAM", "Maggie YUNG ", "Maggie DU"],
+                "designation": [],
+                "moderator": [],
+                "content": "Looking for a fun and chill way to sweat out the stress from the day?  Join us for Zumba X Bollywood dance workout to boost your cardio endurance, improve core strength, and unwind your body with us!",
+                "icl_link": "public/iCal-invites/Hong Kong/20 Jul_5pm_Zumba x Bollywood.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 21,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/Hong Kong/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+
+            {
+                "CheckId": 14,
+                "date": "2023-07-21",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Career Jam (HK) (Cantonese)",
+                "speaker": ["Fergus LO", "Amy KWAN ", "Pony LAU"],
+                "designation": [],
+                "moderator": ["Daniel HO"],
+                "content": "Do you have questions on internal mobility? Join us as we hear from employees who have done internal mobility, hiring managers and releasing managers to debunk some of the myths you may have!",
+                "icl_link": "public/iCal-invites/Hong Kong/21 July_11am_Career Jam (HK).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_67h6swi8"
+            },
+
+            {
+                "CheckId": 23,
+                "date": "2023-07-21",
+                "time_start": "12:00 PM",
+                "time_end": "12:50 PM",
+                "title": "Retirement Planning - Never too early Never too late (Cantonese)",
+                "speaker": ["Edward HUI", "Ron TSANG", "Candy CHAN"],
+                "designation": ["", "Manulife", "Manulife"],
+                "moderator": [],
+                "content": "Everyone wishes a retirement with quality of life or even early retired! When & How should i do for planning my excellent retirement life? What should I do now? This webinar will share you what you have to take into consideration for your retirement planning, and also some products/practices about retirement tools in HK market along with the available solutions/products in DBS with preferential exclusive staff offer!",
+                "icl_link": "public/iCal-invites/Hong Kong/21 July_12pm_Retirement Planning Never too early Never too late.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 24,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL ", "Boris CHAN"],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+
+            {
+                "CheckId": 25,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": ["Susanna LAM", "Heidi CHEUNG"],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/Hong Kong/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            },
+            {
+                "CheckId": 26,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "5:00 PM",
+                "title": "Parent-child Yoga",
+                "speaker": ["Celia Wing Lam WAN", "Boris CHAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Unleash the power of yoga and strengthen your bond with your children in a natural and healthy way!  Join us now and let's practice yoga together!",
+                "icl_link": "public/iCal-invites/Hong Kong/U_21Jul_4pm_Parent-child Yoga.ics",
+                "join_link": "",
+                "video_link": ""
+            }
+        ]
+    },
+    "in": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 1,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [],
+                "designation": [],
+                "moderator": ["Kwee Juan HAN"],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+            {
+                "CheckId": 2,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/India/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/India/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+
+
+
+            {
+                "CheckId": 5,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing ",
+                "speaker": ["Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/India/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE "],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to: <br><ul><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/India/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": ["Joanne Foong Ming HOR"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br><br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/India/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-19",
+                "time_start": "5:30 PM",
+                "time_end": "6:30 PM",
+                "title": "Zumba",
+                "speaker": ["Vishal SANNAPURI "],
+                "designation": [],
+                "moderator": [],
+                "content": "Zumba Session in physical capacity at Skyview Office",
+                "icl_link": "public/iCal-invites/India/19Jul_5.30pm_Zumba.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 9,
+                "date": "2023-07-19",
+                "time_start": "6:30 PM",
+                "time_end": "7:30 PM",
+                "title": "The Psychology of Spending",
+                "speaker": ["Usha MALLYA"],
+                "designation": ["Founder, Polestar Investments"],
+                "moderator": [],
+                "content": "Our spending habits are often influenced by psychological factors, such as emotions, biases, and social pressures.<br> This webinar can explore<br><ul><li> 1. The psychology of spending</li><li> 2. How to identify your spending triggers</li><li> 3. How to overcome impulse buying, and make mindful spending choices.</li></ul>",
+                "icl_link": "public/iCal-invites/India/19Jul_6.30pm_The Psychology of Spending.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 10,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": ["Soumee DE"],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+
+            {
+                "CheckId": 12,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": ["Lishia ERZA"],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/India/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 13,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": ["Kwee Juan HAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li><li> - In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li> - Heavy reliance on personal savings and pension schemes for retirement  how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/India/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+            {
+                "CheckId": 14.1,
+                "date": "2023-07-20",
+                "time_start": "2:15 PM",
+                "time_end": "3:45 PM",
+                "title": "Career Jam - Build Career Resilience by Reskilling and Upskilling",
+                "speaker": [
+                    "Kunal PUNJABI ",
+                    "Abhilash DUGGYALA"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Inculcate growth mindset, learn about the Triple E framework, career lattice, ecosystem and tools to support your career development ",
+                "icl_link": "public/iCal-invites/India/20Jul_2.30pm_Career Jam - Build Career Resilience by Reskilling and Upskilling.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+            {
+                "CheckId": 17,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness ",
+                "speaker": ["Jung Kyun KIM"],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/India/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 18,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": ["Him Chuan LIM"],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan <br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. <br> Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/India/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": ["Dr. Matthew TAN"],
+                "designation": ["Dr Tan Medical Center"],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": ["Mark Englehart EVANS"],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/India/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+            {
+                "CheckId": 20,
+                "date": "2023-07-20",
+                "time_start": "5:30 PM",
+                "time_end": "6:30 PM",
+                "title": "Zumba",
+                "speaker": ["Vishal SANNAPURI"],
+                "designation": [],
+                "moderator": [],
+                "content": "Zumba Session in physical capacity at Waverock Office",
+                "icl_link": "public/iCal-invites/India/20Jul_5.30pm_Zumba.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 21,
+                "date": "2023-07-20",
+                "time_start": "6:30 PM",
+                "time_end": "7:30 PM",
+                "title": "Heartfulness Meditation",
+                "speaker": ["Deepak Kumar"],
+                "designation": ["Heartfulness Institute"],
+                "moderator": [],
+                "content": "Heartfulness is a simple and effective set of practices for relaxation, meditation, regulating the mind, and building inner strength and attitudes to create a lasting sense of fulfilment and overall well-being. <br> These sessions will enable you to : <br> <ul><li>•        Relax  - Reduce tension in the body and bring yourself to a state of calm</li><li>•        Meditate - Bring the mind to a state of focus and clarity with reduced mental haziness. Being knowledge workers, this is key to productivity and performance </li><li>•        Rejuvenate - Let go of emotional burden, stress, anxiety, and instil lightness & joy </li><li>•        Establish Inner Connection - Connect within and realize your inner potential<li></ul>",
+                "icl_link": "public/iCal-invites/India/20Jul_6.30pm_Heartfulness Meditation.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 22,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/India/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 24,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": ["Susanna LAM", "Heidi CHEUNG"],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/India/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            }
+        ]
+    },
+
+    "id": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 3,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [
+
+                ],
+                "designation": [],
+                "moderator": [
+                    "Kwee Juan HAN"
+                ],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+
+
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/Indonesia/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/Indonesia/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing ",
+                "speaker": [
+                    "Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"
+                ],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/Indonesia/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to: <br><ul><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/Indonesia/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 9,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": [
+                    "Joanne Foong Ming HOR"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br><br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/Indonesia/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 10,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": [
+                    "Soumee DE"
+                ],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+
+            {
+                "CheckId": 12,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": [
+                    "Lishia ERZA"
+                ],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/Indonesia/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 13,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning by Kwee Juan",
+                "speaker": [
+                    "Kwee Juan HAN"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li><li>- In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li>- Heavy reliance on personal savings and pension schemes for retirement – how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/Indonesia/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+
+
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+            {
+                "CheckId": 17,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness ",
+                "speaker": [
+                    "Jung Kyun KIM"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 18,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": [
+                    "Him Chuan LIM"
+                ],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan <br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. <br> Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/Indonesia/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": [
+                    "Dr. Matthew TAN"
+                ],
+                "designation": [
+                    "Dr Tan Medical Center"
+                ],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": [
+                    "Mark Englehart EVANS"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/Indonesia/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+            {
+                "CheckId": 20,
+                "date": "2023-07-20",
+                "time_start": "6:00 PM",
+                "time_end": "7:30 PM",
+                "title": "Poundfit",
+                "speaker": [
+
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Total of 60 min workshop covers: <br> <ul><li>- Practioner sharing on how to get start and what to prepare </li><li>- Experiential exercise</li></ul>",
+                "icl_link": "public/iCal-invites/Indonesia/20 Jul_6pm_Physical Activity Poundfit _IDO.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 21,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 22,
+                "date": "2023-07-21",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Career Jam (ID)",
+                "speaker": [
+                    "Andreas Agung HARYONO", "Sonja Kristianti", "Muhammad Levy Aninditio", "Sulaiman"
+                ],
+                "designation": [],
+                "moderator": ["Yafet Daniel KRISTIAN"],
+                "content": "Do you have questions on internal mobility? Join us as we hear from employees who have done internal mobility, hiring managers and releasing managers to debunk some of the myths you may have!",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_11am_Career Jam (ID).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 23,
+                "date": "2023-07-21",
+                "time_start": "12:00 PM",
+                "time_end": "12:50 PM",
+                "title": "Financial Literacy",
+                "speaker": [
+                    " Boy SUHENDRI"
+                ],
+                "designation": [],
+                "moderator": ["Billy"],
+                "content": "Are you financial savy enough? Join this session to enhance your knowledge and understanding of financial concepts, products, and practices. What to eyeball when doing budgeting, saving, investing, managing debt, understanding credit and making informed financial decision. Sharpen your financial plan in a fun and interactive way.",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_12pm_Financial Literacy.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 19,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 25,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": [
+                    "Susanna LAM",
+                    "Heidi CHEUNG"
+                ],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            },
+            {
+                "CheckId": 26,
+                "date": "2023-07-21",
+                "time_start": "6:00 PM",
+                "time_end": "7:30 PM",
+                "title": "Running",
+                "speaker": [
+                    "Aries NP Sunu"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Total of 60 min workshop covers:<br> <ul><li>- Practioner sharing on how to get start and what to prepare  </li><li> - Experiential exercise </li></ul>",
+                "icl_link": "public/iCal-invites/Indonesia/21 Jul_6pm_Physical Activity Running_IDO.ics",
+                "join_link": "",
+                "video_link": ""
+            }
+
+        ]
+    },
+    "tw": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 1,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [
+
+                ],
+                "designation": [],
+                "moderator": [
+                    "Kwee Juan HAN"
+                ],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+            {
+                "CheckId": 2,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li> - How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change. </li><ul>",
+                "icl_link": "public/iCal-invites/Taiwan/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+            {
+                "CheckId": 2.1,
+                "date": "2023-07-19",
+                "time_start": "12:30 PM",
+                "time_end": "1:00 PM",
+                "title": "Audit's Talent Strategy and Career Development",
+                "speaker": ["Brandon Kuan Yu CHEN"],
+                "designation": [],
+                "moderator": [],
+                "content": "The event will share with you what is Audit, Audit's Talent Strategy and Career Development",
+                "icl_link": "public/iCal-invites/19 Jul_12.30pm_Audit's Talent Strategy and Career Development.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 3,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/Taiwan/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing ",
+                "speaker": [
+                    "Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"
+                ],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/Taiwan/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 5,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE"],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to: <br><ul><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ul>",
+                "icl_link": "public/iCal-invites/Taiwan/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": [
+                    "Joanne Foong Ming HOR"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br><br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/Taiwan/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": [
+                    "Soumee DE"
+                ],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-20",
+                "time_start": "11:00 AM",
+                "time_end": "12:00 PM",
+                "title": "Retirement Planning - Never too early Never too late ",
+                "speaker": [
+                    "Jeffrey Cheng Chieh LIU", "Leo Ru Sheng KUO"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Everyone wishes a retirement with quality of life or even early retired! When & How should i do for planning my excellent retirement life? What should I do now?",
+                "icl_link": "public/iCal-invites/Taiwan/20 Jul_11am_Retirement Planning - Never too early Never too late.ics",
+                "join_link": "",
+                "video_link": ""
+            },
+            {
+                "CheckId": 9,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": [
+                    "Lishia ERZA"
+                ],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/Taiwan/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 10,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": [
+                    "Kwee Juan HAN"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li> <li>- In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li>- Heavy reliance on personal savings and pension schemes for retirement - how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/Taiwan/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+
+            {
+                "CheckId": 12,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+            {
+                "CheckId": 14,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness ",
+                "speaker": [
+                    "Jung Kyun KIM"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/Taiwan/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": [
+                    "Him Chuan LIM"
+                ],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan <br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. <br> Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/Taiwan/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 13,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": [
+                    "Dr. Matthew TAN"
+                ],
+                "designation": [
+                    "Dr Tan Medical Center"
+                ],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy",
+                "speaker": [
+                    "Mark Englehart EVANS"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/Taiwan/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+            {
+                "CheckId": 17,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": ["Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/Taiwan/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 18,
+                "date": "2023-07-21",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Career Jam (TW)",
+                "speaker": [
+                    "Venus Ya Han HSIEH", " Gavin Chun Chin PENG", "Jack Huai Chun WANG"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Do you have questions on internal mobility? Join us as we hear from employees who have done internal mobility, hiring managers and releasing managers to debunk some of the myths you may have!",
+                "icl_link": "public/iCal-invites/Taiwan/21 Jul_11am_Career Jam (TW).ics",
+                "join_link": "",
+                "video_link": ""
+            },
+
+            {
+                "CheckId": 19,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 20,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": [
+                    "Susanna LAM",
+                    "Heidi CHEUNG"
+                ],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/Taiwan/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            },
+            {
+                "CheckId": 21,
+                "date": "2023-07-21",
+                "time_start": "4:00 PM",
+                "time_end": "5:00 PM",
+                "title": "Align your spine, feel just fine",
+                "speaker": [
+                    "Eren Yi Ting WANG"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Tips for relieving shoulder and neck pain",
+                "icl_link": "public/iCal-invites/Taiwan/21 Jul_4pm_Align your spine feel just fine.ics",
+                "join_link": "",
+                "video_link": ""
+            }
+
+        ]
+    },
+    "ics": {
+        "event-start-date": "2023-07-19",
+        "event-end-date": "2023-07-21",
+        "events": [{
+                "CheckId": 1,
+                "date": "2023-07-19",
+                "time_start": "9:00 AM",
+                "time_end": "10:00 AM",
+                "title": "Keynote & Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng",
+                "speaker": [
+
+                ],
+                "designation": [],
+                "moderator": [
+                    "Kwee Juan HAN"
+                ],
+                "content": "",
+                "icl_link": "public/iCal-invites/19 Jul_9am_Keynote  Dialogue with Singapore Minister for Manpower and Second Minister for Trade & Industry, Dr Tan See Leng.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_e3ud12cc"
+            },
+            {
+                "CheckId": 2,
+                "date": "2023-07-19",
+                "time_start": "11:00 AM",
+                "time_end": "11:50 AM",
+                "title": "Entrepreneurship & Resilience",
+                "speaker": ["Dorothea Koh"],
+                "designation": [
+                    "Founder & CEO of BotMD"
+
+                ],
+                "moderator": ["Vanessa ZHANG"],
+                "content": "Come hear Dorothea's journey into entrepreneurship, the challenges she encountered, how she stayed resilient and overcame them. <br><ul><li>- Learn how we can channel entrepreneurial traits as ‘intrapreneurs’ - challenge the status quo, navigated the unknowns, be creative, and break out of self-imposed mental confines.</li><li>- How to be entrepreneurial in our daily work – navigating complex environments and identifying opportunities amongst rapid change.</li></ul>",
+                "icl_link": "public/iCal-invites/International Centres/19 Jul_11am_Entrepreneurship & Resilience.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_hegaruoo"
+            },
+            {
+                "CheckId": 3,
+                "date": "2023-07-19",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Preparing ourselves to harness the potential of Gen AI in our work",
+                "speaker": ["Nimish PANCHMATIA", "Ying Yuan NG", "Vinayak HV (McKinsey)"],
+                "designation": [],
+                "moderator": [],
+                "content": "",
+                "icl_link": "public/iCal-invites/International Centres/19 Jul_1pm_Preparing ourselves to harness the potential of Gen AI in our work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jobfn9bb"
+            },
+            {
+                "CheckId": 4,
+                "date": "2023-07-19",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "GMC Career Journey Sharing",
+                "speaker": [
+                    "Kwee Juan HAN", "Him Chuan LIM", "Ginger Sze Ching CHENG", "Sier Han NG"
+                ],
+                "designation": [],
+                "moderator": ["Shalene Chiae Chee LIM"],
+                "content": "Be inspired by our GMC leaders as they share their personal career journeys, the highs (and lows!). More importantly, how they adopted a growth mindset to step out of their comfort zone and embrace new challenges.",
+                "icl_link": "public/iCal-invites/International Centres/19 Jul_2pm_GMC Career Journey Sharing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_qtg3hlgt"
+            },
+            {
+                "CheckId": 29,
+                "date": "2023-07-19",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Shaping the Future of Work",
+                "speaker": ["Linda Sim Peng LEE", "Jitendra TEKCHANDANI", "Ee Lin TAN"],
+                "designation": [],
+                "moderator": [],
+                "content": "Imagine that the progress of customer requests can be tracked like a parcel from Amazon, wouldn’t the customer and employee experience be seamless? To realise this vision, we are equipping the bank with Workflow Workbench by having consolidating tasks from various systems into a single interface to reduce toil and enable better collaboration.",
+                "icl_link": "public/iCal-invites/Shaping the Future of Work.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_30hljh3u"
+            },
+            {
+                "CheckId": 5,
+                "date": "2023-07-19",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "The Art of Prioritisation",
+                "speaker": ["Jurgen J MEERSCHAEGE "],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn to thrive in today's fast-paced work with The Art of Prioritisation. Join this session if you want to: <br><ol><li>1. Prioritise and enhance everyday decision-making</li><li>2. Uncover the secrets to effective workload management</li><li>3. Optimise your workflow with Agile Prioritisation techniques</li></ol>",
+                "icl_link": "public/iCal-invites/International Centres/19 Jul_4pm_The Art of Prioritisation.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_q63w8694/98847"
+            },
+            {
+                "CheckId": 6,
+                "date": "2023-07-19",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "What to Say After R U OK (For Managers)",
+                "speaker": [
+                    "Joanne Foong Ming HOR "
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "Learn \"What to say after R U OK?\" with Joanne <br> Join this session to gain valuable insights on mental health and well-being, and why supporting mental wellness at work matters. Learn from Joanne how to recognize early signs when a co-worker is struggling, apply practical strategies to initiate conversations with empathy, and provide meaningful support to empower others. Sign-up and learn how you could make a tangible difference in someone's life.",
+                "icl_link": "public/iCal-invites/International Centres/19 Jul_5pm_What to Say After R U OK (For Managers).ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_f0x2ol5x/98847"
+            },
+            {
+                "CheckId": 7,
+                "date": "2023-07-20",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "From Insights to Action: How might we build a resilient career in banking?",
+                "speaker": [
+                    "Soumee DE"
+                ],
+                "designation": [
+                    "Partner, People Advisory Services, EY Singapore"
+                ],
+                "moderator": [],
+                "content": "<ul><li>- Explore Megatrends impacting the workforce in banking sector / financial industry</li><li>- Case stories on workforce transformation initiatives adapting to these Megatrends</li><li>- EY's story on building a skills-led learning organisation</li> <li>- What can we do now, next and beyond? </li></ul>",
+                "icl_link": "public/iCal-invites/From Insights to Action How might we build a resilient career in banking.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_1cxtkgq3/98847"
+            },
+            {
+                "CheckId": 8,
+                "date": "2023-07-20",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Critical skills to thrive at the workplace",
+                "speaker": [
+                    "Lishia ERZA"
+                ],
+                "designation": ["CEO, ASYX"],
+                "moderator": ["Muhammad Levy ANINDITIO"],
+                "content": "Get inspired by our speakers on their career journeys and how they navigated challenges at the workplace. Get practical tips on critical skills that are most relevant to help you thrive at work.",
+                "icl_link": "public/iCal-invites/International Centres/20 Jul_1pm_Critical skills to thrive at the workplace.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_wax6kpc6/98847"
+            },
+            {
+                "CheckId": 9,
+                "date": "2023-07-20",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Retirement Planning",
+                "speaker": [
+                    "Kwee Juan HAN"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "<ul><li>- What are some tips and strategies to prepare for retirement?</li> <li>- In view of the increased longevity, inflation of medical costs, and an environment of geopolitical instability and market volatility, What are some important considerations when planning for retirement.</li><li>- Heavy reliance on personal savings and pension schemes for retirement – how can we go beyond to secure our financial security In retirement?</li></ul>",
+                "icl_link": "public/iCal-invites/International Centres/20 Jul_2pm_Retirement Planning.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jw33gvnr/98847"
+            },
+
+            {
+                "CheckId": 11,
+                "date": "2023-07-20",
+                "time_start": "3:00 PM",
+                "time_end": "3:50 PM",
+                "title": "Sleeping Well",
+                "speaker": ["Dr. Michelle CHEUNG", "Dr. Audrey CHOH ", "Yan Hong LEE"],
+                "designation": ["Raffles Medical", "ChiroTherapy", ""],
+                "moderator": [],
+                "content": "Learn about the importance of quality rest for our overall well-being. Explore the science behind sleep cycles, the effects of sleep deprivation, practical strategies for optimizing sleep habits, and how proper sleep posture impacts the quality of rest. Discover how unlocking the power of a good night's sleep can enhance our productivity, mental health, spinal health and overall quality of life.",
+                "icl_link": "public/iCal-invites/Sleep.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_2ewbkf6t/98847"
+            },
+
+
+            {
+                "CheckId": 14,
+                "date": "2023-07-20",
+                "time_start": "4:00 PM",
+                "time_end": "4:50 PM",
+                "title": "Timeboxing",
+                "speaker": [
+                    "Him Chuan LIM"
+                ],
+                "designation": [],
+                "moderator": ["Jaidev RAM MOHAN"],
+                "content": "Take charge of your Time, with Him Chuan<br> As a busy executive, how do you stay resilient and get more done everyday? It's Time to think inside the Box. Discover the power of timeboxing and how you can use it to unlock your peak productivity. Learn from Him Chuan about the practical tips he uses to prioritize tasks and amplify focus. Build sustainable micro-habits that can help you get more out of work and life. Register now!",
+                "icl_link": "public/iCal-invites/International Centres/20 Jul_4pm_Timeboxing.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_vk0y0frr/98847"
+            },
+            {
+                "CheckId": 12,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Nutrition",
+                "speaker": [
+                    "Dr. Matthew TAN"
+                ],
+                "designation": [
+                    "Dr Tan Medical Center"
+                ],
+                "moderator": [],
+                "content": "Weight is a fundamental aspect of our health, not just physically but emotionally as well. This session shares on weight management and lifestyle in the context of a busy office worker to help increase the understanding of what weight is and what are the healthy ways that can be used to manage weight in the context of a busy lifestyle.",
+                "icl_link": "public/iCal-invites/20 Jul_5pm_Nutrition.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_ez3u2wy7/98847"
+            },
+            {
+                "CheckId": 15,
+                "date": "2023-07-20",
+                "time_start": "5:00 PM",
+                "time_end": "5:50 PM",
+                "title": "Finding RED through Effective Empathy ",
+                "speaker": [
+                    "Mark Englehart EVANS"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "How to better understand what our customers want, think and need through perspective-taking. <br> A practical and applied approach on how to consciously apply empathy to create better interactions and outcomes within the RED framework.",
+                "icl_link": "public/iCal-invites/International Centres/20 Jul_5pm_Finding RED through Effective Empathy.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_jjclp0h9/98847"
+            },
+
+            {
+                "CheckId": 13,
+                "date": "2023-07-21",
+                "time_start": "9:00 AM",
+                "time_end": "9:50 AM",
+                "title": "Behavioural Science and the science of happiness ",
+                "speaker": [
+                    "Jung Kyun KIM"
+                ],
+                "designation": [],
+                "moderator": [],
+                "content": "We will briefly review two major schools of thought in the science of happiness: (1) Hedonic & (2) Eudaimonic well-being. Then, we'll discuss the implications of these views for us, the DBS community, and how we can empower ourselves to \"live fulfilled\" at DBS.",
+                "icl_link": "public/iCal-invites/International Centres/21 Jul_9am_Behavioural Science and the science of happiness.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_6js0gci3/98847"
+            },
+            {
+                "CheckId": 16,
+                "date": "2023-07-21",
+                "time_start": "10:00 AM",
+                "time_end": "10:50 AM",
+                "title": "Be My Guest",
+                "speaker": [
+                    "Grace ZHANG", "Vincent HUA", "Farrah WANG", "Truman ZHENG"
+                ],
+                "designation": [],
+                "moderator": ["Cedric CAO"],
+                "content": "Hear from our colleagues on their experience as a Be My Guest host, and as a guest. Be inspired to take on your next Be My Guest opportunity!",
+                "icl_link": "public/iCal-invites/International Centres/21 Jul_10am_Be My Guest.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_i2tpmqvf/98847"
+            },
+            {
+                "CheckId": 17,
+                "date": "2023-07-21",
+                "time_start": "1:00 PM",
+                "time_end": "1:50 PM",
+                "title": "Boosting Mental Health Outcomes for ME, WE and E",
+                "speaker": ["Alistair CARMICHAEL "],
+                "designation": ["McKinsey"],
+                "moderator": ["Heng Shern YEAP"],
+                "content": "You will hear the latest from the McKinsey Health Institute and their global experience, with key takeaways to improve your mental health and wellbeing. We will discuss what drives positive and negative mental health outcomes and dig into what we can do together to strengthen mental health and wellbeing in our teams and practical things we can do for ourselves.",
+                "icl_link": "public/iCal-invites/21 Jul_1pm_Boosting Mental Health Outcomes for ME WE and E.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_rho5r89w/98847"
+            },
+
+            {
+                "CheckId": 18,
+                "date": "2023-07-21",
+                "time_start": "2:00 PM",
+                "time_end": "2:50 PM",
+                "title": "Acing internal interviews",
+                "speaker": [
+                    "Susanna LAM",
+                    "Heidi CHEUNG"
+                ],
+                "designation": [],
+                "moderator": ["Fanny CHOW"],
+                "content": "Takeaway practical tips to prepare for internal interviews ",
+                "icl_link": "public/iCal-invites/International Centres/21 Jul_2pm_Acing internal interviews.ics",
+                "join_link": "",
+                "video_link": "https://dbstube.dbs.com/media/t/0_apgiz43l/98847"
+            }
+
+        ]
+    }
+}

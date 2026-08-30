@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Taipei Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Alice Po Jung CHEN";RSVP=TRUE:mailto:alicechenpj@dbs.com
+CLASS:PUBLIC
+CREATED:20230707T034829Z
+DESCRIPTION:Dear All\, \n\n \n\nPlease reserve your time for Audit人才策
+	略與職涯發展.\n\n \n\nCareer Jam\n\nTime: 19 Jul (Wed.) 12:30pm-1:00
+	pm\n\nVenue: Taipei Hub 10F Jungle\, DBSU\n\n \n\nRegards\,\n\nSherry\n\n
+DTEND;TZID="Taipei Standard Time":20230719T130000
+DTSTAMP:20230707T034755Z
+DTSTART;TZID="Taipei Standard Time":20230719T123000
+LAST-MODIFIED:20230707T034829Z
+LOCATION:Taipei Hub 10F Jungle\, DBSU
+ORGANIZER;CN="Sherry Jung Hsuan LEE":mailto:sherrylee@dbs.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=zh-tw:Audit 人才策略與職涯發展
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080654940C8B0D901000000000000000
+	01000000066C09F3F3FB88749A69ABF8654232A0C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:新細明體\;\n	panose-1:2 2 5 0 0 0
+	 0 0 0 0\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3
+	 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2
+	 2 4 3 2 4\;}\n@font-face\n	{font-family:"\\@新細明體"\;\n	panose-1:2 
+	1 6 1 0 1 1 1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\
+	, div.MsoNormal\n	{margin:0cm\;\n	font-size:12.0pt\;\n	font-family:"Calibr
+	i"\,sans-serif\;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\
+	n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefaul
+	t\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\,sans-serif\;}\n
+	/* Page Definitions */\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	mar
+	gin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\
+	;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spi
+	dmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout
+	 v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><
+	![endif]--></head><body lang=ZH-TW link="#0563C1" vlink="#954F72" style='w
+	ord-wrap:break-word\;text-justify-trim:punctuation'><div class=WordSection
+	1><p class=MsoNormal><span lang=EN-US>Dear All\, <o:p></o:p></span></p><p 
+	class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></p><p class=Mso
+	Normal><span lang=EN-US>Please reserve your time for Audit</span><span sty
+	le='font-family:"新細明體"\,serif'>人才策略與職涯發展</span><
+	span lang=EN-US>.<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US
+	><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><b><span lang=EN-US>Caree
+	r Jam<o:p></o:p></span></b></p><p class=MsoNormal><span lang=EN-US>Time: 1
+	9 Jul (Wed.) 12:30pm-1:00pm<o:p></o:p></span></p><p class=MsoNormal><span 
+	lang=EN-US>Venue: Taipei Hub 10F Jungle\, DBSU<o:p></o:p></span></p><p cla
+	ss=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></p><p class=MsoNor
+	mal><span lang=EN-US>Regards\,<o:p></o:p></span></p><p class=MsoNormal><sp
+	an lang=EN-US>Sherry<o:p></o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230707T034755Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
