@@ -44,8 +44,9 @@ export const PageBanner: React.FC<IPageBannerProps> = ({ showPostEvent }) => {
   }, []);
 
   const handleAnchorClick = (href: string, e: React.MouseEvent): void => {
-    e.preventDefault();
-    scrollToClassicAnchor(href);
+    if (scrollToClassicAnchor(href)) {
+      e.preventDefault();
+    }
   };
 
   return (

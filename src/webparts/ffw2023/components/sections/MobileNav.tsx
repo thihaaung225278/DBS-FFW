@@ -21,8 +21,10 @@ export const MobileNav: React.FC<IMobileNavProps> = ({ showPostEvent }) => {
   }
 
   const handleNavClick = (href: string, e: React.MouseEvent): void => {
-    e.preventDefault();
-    scrollToClassicAnchor(href);
+    if (scrollToClassicAnchor(href)) {
+      e.preventDefault();
+    }
+
     setOpen(false);
   };
 

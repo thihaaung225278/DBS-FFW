@@ -444,6 +444,11 @@ section .uk-container {
 
 .lottie-animation {
   position: fixed;
+  pointer-events: none;
+}
+
+.lottie-animation svg {
+  pointer-events: none;
 }
 
 #human-lottie {
