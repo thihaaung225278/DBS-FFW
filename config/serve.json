@@ -18,6 +18,9 @@
     },
     "postEvent2023": {
       "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/post-event.aspx?env=WebView&loadSPFX=true"
+    },
+    "ffw2024": {
+      "pageUrl": "https://clickrmedia.sharepoint.com/sites/DBSFFW/SitePages/index2024.aspx?env=WebView&loadSPFX=true"
     }
   }
 }

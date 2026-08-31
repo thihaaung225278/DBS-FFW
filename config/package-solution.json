@@ -3,7 +3,7 @@
   "solution": {
     "name": "dbs-ffw-spfx-client-side-solution",
     "id": "25fc5d1f-10f6-4303-b564-259cd161c332",
-    "version": "1.0.0.7",
+    "version": "1.0.0.8",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
@@ -30,7 +30,7 @@
         "title": "dbs-ffw-spfx Feature",
         "description": "The feature that activates elements of the dbs-ffw-spfx solution.",
         "id": "a27a5ec5-5906-4381-889e-982e6a582fff",
-        "version": "1.0.0.7"
+        "version": "1.0.0.8"
       }
     ]
   },

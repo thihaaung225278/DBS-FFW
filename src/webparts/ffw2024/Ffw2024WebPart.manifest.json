@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "53b2913a-4be0-4ec1-ac9c-394984b31e86",
+  "alias": "Ffw2024WebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportsFullBleed": true,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab", "SharePointFullPage"],
+  "supportsThemeVariants": true,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Advanced" },
+    "title": { "default": "Ffw 2024" },
+    "description": { "default": "DBS FFW 2024 landing (classic 2024/index.aspx live surface)" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "classicYear": "2024",
+      "galleryViewMoreUrl": "https://dbs1bank.sharepoint.com/:f:/s/sghrcomms/Elz2YRsvNCpJvi-ma2r5cOsBJ4PwMFHkJeNjVcQixqPyRA?e=qL0bAJ"
+    }
+  }]
+}

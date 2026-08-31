@@ -14,8 +14,10 @@
     "serve:workbench": "gulp serve --config=workbench",
     "serve:ffw2023": "gulp serve --config=ffw2023",
     "serve:postEvent2023": "gulp serve --config=postEvent2023",
+    "serve:ffw2024": "gulp serve --config=ffw2024",
     "test": "gulp test",
     "prepare:ffw2023-assets": "node scripts/prepare-ffw2023-assets.mjs",
+    "prepare:ffw2024-assets": "node scripts/prepare-ffw2024-assets.mjs",
     "ship": "gulp bundle --ship; gulp package-solution --ship"
   },
   "dependencies": {
