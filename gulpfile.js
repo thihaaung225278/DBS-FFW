@@ -57,6 +57,14 @@ build.configureWebpack.mergeConfig({
       }
     });
 
+    generatedConfiguration.module.rules.unshift({
+      test: /\.ico$/i,
+      type: 'asset/resource',
+      generator: {
+        filename: (pathData) => opcSafeOutputFilename(pathData, 'ffw-favicon-')
+      }
+    });
+
     return generatedConfiguration;
   }
 });
@@ -65,5 +73,5 @@ build.initialize(require('gulp'));
 
 // After initialize so this replaces the gulp-era list (no webp) from SPWebBuildRig.
 build.copyStaticAssets.setConfig({
-  includeExtensions: ['jpg', 'png', 'woff', 'woff2', 'eot', 'ttf', 'svg', 'gif', 'dds', 'resx', 'webp', 'ics', 'json']
+  includeExtensions: ['jpg', 'png', 'woff', 'woff2', 'eot', 'ttf', 'svg', 'gif', 'dds', 'resx', 'webp', 'ics', 'json', 'ico']
 });

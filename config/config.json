@@ -25,12 +25,21 @@
           "manifest": "./src/webparts/ffw2024/Ffw2024WebPart.manifest.json"
         }
       ]
+    },
+    "ffw2025-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/ffw2025/Ffw2025WebPart.js",
+          "manifest": "./src/webparts/ffw2025/Ffw2025WebPart.manifest.json"
+        }
+      ]
     }
   },
   "externals": {},
   "localizedResources": {
     "Ffw2023WebPartStrings": "lib/webparts/ffw2023/loc/{locale}.js",
     "PostEvent2023WebPartStrings": "lib/webparts/postEvent2023/loc/{locale}.js",
-    "Ffw2024WebPartStrings": "lib/webparts/ffw2024/loc/{locale}.js"
+    "Ffw2024WebPartStrings": "lib/webparts/ffw2024/loc/{locale}.js",
+    "Ffw2025WebPartStrings": "lib/webparts/ffw2025/loc/{locale}.js"
   }
 }

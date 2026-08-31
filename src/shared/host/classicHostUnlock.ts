@@ -18,7 +18,19 @@ interface IStoredBackground {
   value: string;
 }
 
+interface IStoredFavicon {
+  link: HTMLLinkElement;
+  href: string;
+  type: string;
+  created: boolean;
+}
+
 const BACKGROUND_PROP = 'background-color';
+
+const FAVICON_MARK = 'data-dbs-ffw-favicon';
+const FAVICON_TYPE = 'image/x-icon';
+/* eslint-disable-next-line @typescript-eslint/no-var-requires */
+const CLASSIC_FAVICON_HREF: string = require('./favicon.ico');
 
 const UNLOCK_MARK = 'data-dbs-ffw-host-unlock';
 
@@ -192,6 +204,79 @@ function restorePageBackground(stored: IStoredBackground[]): void {
   });
 }
 
+function queryFaviconLink(): HTMLLinkElement | undefined {
+  const marked = document.head.querySelector(`link[${FAVICON_MARK}]`) as HTMLLinkElement | null;
+  if (marked) {
+    return marked;
+  }
+
+  const existing = document.head.querySelector(
+    'link[rel="icon"], link[rel="shortcut icon"]'
+  ) as HTMLLinkElement | null;
+  return existing || undefined;
+}
+
+function captureFavicon(): IStoredFavicon {
+  const existing = queryFaviconLink();
+  if (existing) {
+    return {
+      link: existing,
+      href: existing.getAttribute('href') || '',
+      type: existing.getAttribute('type') || '',
+      created: false
+    };
+  }
+
+  const link = document.createElement('link');
+  link.rel = 'icon';
+  document.head.appendChild(link);
+  return { link, href: '', type: '', created: true };
+}
+
+function applyClassicFavicon(stored: IStoredFavicon): void {
+  if (!stored.link.isConnected) {
+    const next = queryFaviconLink();
+    if (next) {
+      stored.link = next;
+    } else {
+      const link = document.createElement('link');
+      link.rel = 'icon';
+      document.head.appendChild(link);
+      stored.link = link;
+      stored.created = true;
+    }
+  }
+
+  stored.link.type = FAVICON_TYPE;
+  stored.link.href = CLASSIC_FAVICON_HREF;
+  stored.link.setAttribute(FAVICON_MARK, 'true');
+}
+
+function restoreFavicon(stored: IStoredFavicon): void {
+  if (!stored.link.isConnected) {
+    return;
+  }
+
+  stored.link.removeAttribute(FAVICON_MARK);
+
+  if (stored.created) {
+    stored.link.remove();
+    return;
+  }
+
+  if (stored.href) {
+    stored.link.href = stored.href;
+  } else {
+    stored.link.removeAttribute('href');
+  }
+
+  if (stored.type) {
+    stored.link.type = stored.type;
+  } else {
+    stored.link.removeAttribute('type');
+  }
+}
+
 /**
  * Unlocks SharePoint canvas ancestors for full-width / full-bleed sections
  * and syncs host min-height to avoid the ~450px Fabric clip.
@@ -208,6 +293,8 @@ export function unlockClassicHost(
   const storedBackground = pageBackground
     ? paintPageBackground(collectBackgroundTargets(host, fabricBlock), pageBackground)
     : [];
+  const storedFavicon = captureFavicon();
+  applyClassicFavicon(storedFavicon);
   let resizeObserver: ResizeObserver | undefined;
 
   const syncHeight = (): void => {
@@ -223,6 +310,11 @@ export function unlockClassicHost(
     }
   };
 
+  const refresh = (): void => {
+    syncHeight();
+    applyClassicFavicon(storedFavicon);
+  };
+
   if (typeof ResizeObserver !== 'undefined') {
     resizeObserver = new ResizeObserver(() => syncHeight());
     resizeObserver.observe(observeTarget);
@@ -236,7 +328,7 @@ export function unlockClassicHost(
   host.style.marginRight = '0';
 
   return {
-    refresh: syncHeight,
+    refresh,
     dispose: () => {
       resizeObserver?.disconnect();
 
@@ -252,6 +344,7 @@ export function unlockClassicHost(
       host.style.removeProperty('margin-left');
       host.style.removeProperty('margin-right');
       restorePageBackground(storedBackground);
+      restoreFavicon(storedFavicon);
       restoreStyles(stored);
     }
   };
